@@ -1,0 +1,37 @@
+Tugas utama Dosen adalah melaksanakan tri
+dharma perguruan tinggi yaitu pendidikan dan pengajaran,
+penelitian dan pengembangan, serta pengabdian kepada
+masyarakat. Pelaksanaan tugas dan hasil kegiatan tridharma
+dibuktikan dalam bentuk dokumen kinerja dosen seperti
+surat tugas, surat keputusan atau sertifikat. Tujuan
+penelitian ini adalah merancang sebuah sistem berkas digital.
+Sistem berkas digital ini menjadi perlu untuk dirancang
+dalam bentuk sistem repositori dokumen yang dapat
+menyimpan dokumen kinerja dosen dalam format digital.
+Dalam perancangan sistem berkas digital ini menggunakan
+metode prototipe. Sistem berkas digital menjadi langkah
+penting yang harus dilakukan sehingga dosen dapat dengan
+mudah mengakses dokumen kinerja untuk dapat digunakan
+dalam pelaporan capaian kinerja dosen pada setiap semester.
+Fungsi yang dapat menghasilkan tautan (generate link)
+sumber dokumen menjadi fitur penting yang dapat
+digunakan sebagai tautan informasi pendukung bukti
+pelaporan capaian kinerja dosen. Di Universitas
+Tanjungpura, capaian kinerja dosen dilaporkan melalui
+Sistem Beban Kerja Dosen (BKD). Adanya sistem berkas
+digital ini dinilai berhasil menjadi media penyimpanan
+dokumen kinerja dosen, khususnya pada Jurusan
+Informatika. Dokumen kinerja dosen yang telah dipindai
+menjadi berkas digital, kemudian diunggah ke sistem berkas
+digital, sehingga setiap saat berkas digital ini dapat diakses
+dan dimanfaatkan oleh dosen untuk berbagai keperluan.
+Berdasarkan pengujian yang dilakukan, dosen dapat
+mengakses sistem berkas dan mendapatkan setiap dokumen
+yang terdaftar atas namanya. Dalam sistem berkas digital,
+tautan dokumen dapat disalin dengan satu kali klik, untuk
+kemudian ditempelkan sebagai bukti capaian kinerja pada
+Sistem BKD. Pada semester genap 2019/2020 dan gasal
+2020/2021 jumlah berkas digital yang diunggah sebanyak 228
+dokumen, artinya sebanyak 228 tautan yang dapat digunakan
+oleh dosen sebagai bukti dalam pelaporan capaian kinerja
+dosen pada Sistem BKD.

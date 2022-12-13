@@ -1,0 +1,43 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+    <h3>Rata-rata Hasil Evaluasi 100 Jurnal</h3>
+    <br>
+    <div style="border:1px solid black; padding:10px; overflow-x:auto;">
+        <table id="example" class="table display" style="width:100%">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">Precision</th>
+              <th scope="col">Recall</th>
+              <th scope="col">F-Measure</th>
+              <th scope="col">Accuracy</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0.441860465</td>
+              <td>0.69762419</td>
+              <td>0.541038526</td>
+              <td>0.970540802</td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+    <br><br><h5>Lihat Detail evaluasi setiap jurnal</h5><br>
+    <div class="p-3">
+    {% for i,judul in enumerate(daftar_judul) %}
+        {% if i%2 == 0 %}
+            <div class="row border p-2 mb-2 rounded bg-light hover-shadow">
+               <div class="col-10">{{judul.title()}}</div>
+               <a href="detail/{{i}}" class="col-2 btn text-white" style="background-color:#47b2e4">Lihat</a>
+            </div>
+        {% else %}
+            <div class="row border p-2 mb-2 rounded hover-shadow">
+               <div class="col-10">{{judul.title()}}</div>
+               <a href="detail/{{i}}" class="col-2 btn text-white" style="background-color:#47b2e4">Lihat</a>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+{% endblock %}

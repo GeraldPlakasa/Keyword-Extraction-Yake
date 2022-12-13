@@ -1,0 +1,26 @@
+Pada masa pandemi saat ini, pembelajaran jarak
+jauh atau daring merupakan metode pembelajaran yang
+wajib dilakukan oleh penyelenggara pendidikan di Indonesia.
+Saat ini pembelajaran daring masih memiliki kekurangan
+dalam terbatasnya waktu tatap muka sehingga berdampak
+pada kurang optimalnya proses belajar mengajar. Hal ini
+berdampak bagi siswa yang perlu melakukan pembelajaran
+secara mandiri dengan bantuan aplikasi pembelajaran yang
+saat ini banyak tersedia. Sering kali siswa menjumpai aplikasi
+pembelajaran yang memiliki fitur kurang lengkap atau
+aplikasi yang mengharuskan untuk melakukan pembayaran
+terlebih dahulu sebelum digunakan. Dari masalah tersebut,
+perlu adanya media pembelajaran yang dapat mengakomodir
+seluruh keperluan siswa dalam peningkatan pemahaman
+materi pembelajaran. Penelitian ini bertujuan untuk
+menampilkan desain aplikasi pembelajaran berbasis android.
+Desain yang ditampilkan mulai dari desain setiap fitur hingga
+pada desain perancangan sistem. Fitur yang disediakan pada
+penelitian berkelanjutan antara lain, fitur informasi, fitur
+materi dengan penjelasan materi dari guru melalui rekaman
+suara, fitur evaluasi untuk mengetahui pemahaman siswa dan
+fitur video sebagai penunjang penyampain materi. Hasil dari
+penelitian ini menunjukkan bahwa siswa memiliki daya tarik
+terhadap fitur dan tampilan desain aplikasi yang dirancang
+dan memungkinkan siswa dapat meningkatkan kemampuan
+akademis dalam proses pembelajaran mandiri.

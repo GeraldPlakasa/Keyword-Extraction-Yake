@@ -1,0 +1,14 @@
+Pada penelitian ini, penulis mengusulkan metode
+quantum untuk menggantikan perhitungan klasik pada
+algoritma Best First Search, yang bertujuan untuk
+meningkatkan algoritma BFS dalam mencari solusi terbaik,
+dengan membuatnya bekerja lebih cepat. Penulis
+menggantikan setiap informasi yang disimpan dalam bit ke
+dalam bentuk qubit. Penulis telah melakukan percobaan
+terhadap 2
+solusi dengan 3 qubit. Setelah menerapkan
+pendekatan qubit ini pada perhitungan BFS klasik maka
+diperoleh hasil akhir berupa perolehan solusi terbaik dengan
+percepatan yang signifikan. Dimana perhitungan BFS Klasik
+melakukan 8 kali perhitungan sementara BFS Quantum
+melakukannya hanya dengan 1 kali perhitungan saja.

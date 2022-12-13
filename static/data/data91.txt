@@ -1,0 +1,30 @@
+Blockchain adalah tren baru yang meningkat
+pesat dari komunitas dan dunia usaha. Sebagai teknologi
+infrastruktur, dan dapat menemukan jalannya ke berbagai
+ranah seperti keuangan, medis, pasar digital, farmasi, dan
+lembaga pemerintah. Meskipun teknologi blockchain pada
+dasarnya dianggap sebagai fondasi Bitcoin, ia telah
+berkembang pesat melampaui mata uang virtual. Ini
+menjanjikan pembangunan kepercayaan, transparansi, dan
+integritas yang lebih baik tanpa pihak ketiga dan risiko
+penyensoran. Namun, keuntungan luar biasa ini ada
+harganya. Ekosistem blockchain penuh dengan masalah
+manusia-sentris dan ekonomis bagi para pesertanya, yang
+mengarah pada konsekuensi yang tidak diinginkan dalam
+jaringan yang terdesentralisasi. Rekayasa perangkat lunak
+gamified adalah bidang yang berkembang yang secara
+khusus memanfaatkan teknologi gamifikasi, penerapan
+mekanisme game dalam konteks non-game, untuk mengatasi
+masalah yang berhubungan dengan manusia. Saat ini tidak
+ada studi seputar blockchain yang telah diidentifikasi
+memiliki pandangan yang jelas tentang penelitian dan solusi
+yang ada untuk memanfaatkan gamifikasi dalam sistem
+blockchain yang muncul. Sebagai langkah pertama untuk
+mengatasi masalah ini, makalah ini membahas dan
+mengidentifikasi dua masalah utama berbasis manusia
+dalam aplikasi dan pengembangan mengimplementasi
+blockchain. Untuk masalah tersebut, dalam penelitian ini
+menggunakan metode literature review. Dengan
+adanya penelitian ini diharapkan gamifikasi dalam sistem
+blockchain dapat berjalan dengan maksimal dalam
+pengembangan pengimplementasinya.

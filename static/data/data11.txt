@@ -1,0 +1,13 @@
+Untuk mendiagnosa penyakit mata pada manusia diperlukan perhitungan probabilitas
+yang terbaik. Karena mata merupakan salah satu bagian terpenting pada tubuh manusia yang
+harus di jaga kesehatannya. Penelitian ini bertujuan untuk menganalisis perbandingan dari 3
+metode diantaranya : metode Case-Based Reasoning, Naïve Bayes dan Certainty Factor
+sehingga bisa diketahui metode mana yang terbaik untuk melakukan pendiagnosaan. Setelah
+melakukan perbandingan, untuk perhitungan metode Case-Based Reasoning didapatkan hasil
+probabilitas 61,6 %, metode Naïve Bayes didapatkan hasil 56,36% dan metode Certainty
+Factor didapatkan hasil 90,4%. Dapat disimpulkan, metode Certainty Factor adalah metode
+yang terbaik untuk melakukan pendiagnosaan penyakit mata pada manusia. Setelah itu, akan
+dibuatkan suatu sistem pakar menggunakan metode Certainty Factor untuk mendiagnosa
+penyakit mata pada manusia. Sistem pakar merupakan peniru suatu pakar dalam melakukan
+diagnosis suatu penyakit. Tujuan dibuatkan sistem pakar ini, supaya dapat membantu pasien
+untuk mendiagnosa jenis penyakit mata apa berdasarkan gejala gejala yang dialaminya.

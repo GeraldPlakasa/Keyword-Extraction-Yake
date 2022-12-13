@@ -1,0 +1,28 @@
+{% extends 'base2.html' %}
+
+{% block content %}
+
+    <h3>Keyphrase Extraction Menggunakan YAKE</h3>
+    <br>
+    <div style="border:1px solid black; padding:10px">
+        <h5>{{judul | safe}}</h5>
+        <br>
+        <p>{{abstrak | safe}}</p>
+    </div>
+    <br><p>Rank Kata Kunci</p>
+    <div class="p-3">
+    {% for i,keyword in enumerate(keywords) %}
+        {% if i%2 == 0 %}
+            <div class="row border p-2 mb-2 rounded bg-light hover-shadow" style="overflow-x:auto;">
+               <div class="col-8">{{i+1}}. {{keyword}}</div>
+               <div class="col-4 text-end">{{bobot[keyword]}}</div>
+            </div>
+        {% else %}
+            <div class="row border p-2 mb-2 rounded hover-shadow" style="overflow-x:auto;">
+               <div class="col-8">{{i+1}}. {{keyword}}</div>
+               <div class="col-4 text-end">{{bobot[keyword]}}</div>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+{% endblock %}

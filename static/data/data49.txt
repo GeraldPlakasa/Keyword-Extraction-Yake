@@ -1,0 +1,28 @@
+Batik mengalami perkembangan motif dari waktu ke
+waktu. Motif yang dahulu berawal dari batik klasik, saat ini
+menjadi sangat bervariasi. Tanaman bunga yang tumbuh pada
+lingkungan sekitar menimbulkan inspirasi untuk membuat motif
+batik Flora. Pembuatan desain batik flora secara manual
+dilakukan dengan membuat sketsa bunga yang menjadi inspirasi
+pada kertas dengan pena. Proses desain ini membutuhkan
+kemampuan menggambar dari desainer dan waktu yang cukup.
+Perkembangan teknologi informasi memberikan kesempatan
+untuk mengembangkan desain batik yang inovatif dengan lebih
+cepat. Penelitian ini bertujuan untuk membuat program aplikasi
+desain batik flora. Program aplikasi ini didesain dengan
+berdasarkan ide peneliti untuk memenuhi kebutuhan dasar
+desainer untuk memperoleh motif flora. Aplikasi berhasil
+membuat gen yang bersih dengan cara mengambil objek bunga
+dari sebuah foto menggunakan fitur warna. Pemotongan objek
+dilakukan dengan metode 8-connected labeling. Objek bunga yang
+diperoleh dari aplikasi dapat disimpan dan digunakan oleh
+aplikasi untuk membuat sebuah pheno. Aplikasi menyediakan
+area untuk membuat pheno dengan model posisi bebas. Satu atau
+dua pheno dapat digandakan dalam layout tertentu untuk
+menghasilkan desain kain batik flora. Aplikasi yang dibuat
+menyediakan 6 (enam) layout desain kain yang masih bisa
+diperbanyak model layoutnya dalam penelitian lanjutan. Dengan
+menggunakan aplikasi yang dibangun dapat dihasilkan kreasi-
+kreasi desain gen, pheno maupun kain batik flora. Variasi desain
+batik flora sangat bergantung dari kreasi pengguna dalam
+membuat gen dan pheno.

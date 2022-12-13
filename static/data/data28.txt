@@ -1,0 +1,20 @@
+Salah satu algoritma clustering yang paling banyak
+dipakai adalah K-Means dimana algoritma ini membutuhkan
+masukan jumlah klaster yang ingin dibentuk. Pada
+kenyataannya jumlah klaster yang tepat tidak bisa diketahui
+sehingga pemilihan nilai k bergantung pada subyektifitas
+peneliti. Kemudian algoritma K-Means hanya bisa
+menangani atribut dalam bentuk numerik kontinyu padahal
+ada atribut dalam bentuk kategorikal atau campuran
+keduanya. Pada penelitian ini dilakukan pengelompokkan
+data akademik mahasiswa dengan menggunakan algoritma
+twostep clustering yang dapat menentukan jumlah klaster
+secara otomatis dan dapat menangani atribut dalam bentuk
+kategorikal, numerik kontinyu atau campuran keduanya.
+Metode twostep clustering diterapkan pada data mahasiswa
+angkatan 2008-2019 dengan analisis diterapkan pada setiap
+angkatannya. Penelitian ini menghasilkan klaster-klaster
+yang mencerminkan tingkat heterogenitas setiap angkatan
+mahasiswa. Klaster-klaster yang didapat merupakan klaster
+yang optimal setelah diukur menggunakan Bayesian
+Information Criterion dan Ratio Distance Measure.

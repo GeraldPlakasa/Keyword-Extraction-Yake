@@ -1,0 +1,1 @@
+Segmentasi, Citra, Pembuluh Darah, Retina, Thresholding

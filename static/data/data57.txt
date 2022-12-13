@@ -1,0 +1,17 @@
+Kemiskinan merupakan permasalahan yang semestinya dipandang sebagai suatu masalah sosial yang kompleks
+(multidimensional). Berdasarkan data dari Badan Pusat Statistik, presentase kemiskinan nasional pada Maret 2019
+sebesar 9,41 persen. Sementara, Provinsi Jawa Tengah memiliki tingkat kemiskinan lebih tinggi dibandingkan
+dengan tingkat kemiskinan nasional yakni sebesar 10,8 persen. Tingginya tingkat kemiskinan dapat menyebabkan
+tindak kriminal, tingginya angka pengangguran, kekacauan sosial, politik dan lain sebagainya. Oleh karena itu,
+penelitian ini bertujuan untuk menganalisis tingkat kemiskinan dengan menentukan model yang tepat yang
+selanjutnya dapat digunakan untuk melakukan prediksi tingkat kemiskinan menurut kabupaten/kota di Provinsi
+Jawa Tengah. Data yang digunakan diperoleh dari Badan Pusat Statistik Provinsi Jawa Tengah dari tahun 2010
+sampai dengan 2019 yang terdiri dari data Laju Pertumbuhan Ekonomi, Tingkat Pengangguran Terbuka, Indeks
+Pembangunan Manusia, dan Tingkat Kemiskinan menurut kabupaten/kota. Metode yang digunakan yaitu Jaringan
+Syaraf Tiruan Backpropagation. Jaringan Syaraf Tiruan Backpropagation memiliki kinerja yang baik dalam
+menyelesaikan permasalahan, salah satunya masalah prediksi. Berdasarkan model arsitektur terbaik yang
+dihasilkan pada penelitian ini, yaitu model arsitektur 3-35-1 dapat dihasilkan tingkat akurasi sebesar 95,2%
+menggunakan MSE pada proses pengujian menggunakan data pengujian. Sehingga dapat disimpulkan bahwa
+Jaringan Syaraf Tiruan Backpropagation dengan menerapkan model yang tepat dapat menghasilkan tingkat
+akurasi yang baik yang selanjutnya dapat digunakan sebagai alternatif untuk melakukan prediksi tingkat
+kemiskinan menurut kabupaten/kota di Provinsi Jawa Tengah di masa mendatang.

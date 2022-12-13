@@ -1,0 +1,12 @@
+Lari merupakan olahraga yang efektif untuk membakar kalori. Namun, olahraga ini mempunyai dampak negatif
+bagi pelari yang mampu memicu serangan jantung sehingga dibutuhkan alat kesehatan untuk mendeteksi frekuensi
+denyut nadi saat berlari. Tujuan penelitian ini merancang sistem monitoring frekuensi denyut nadi secara real time
+pada pelari dengan menggunakan easily plugin pulse sensor berbasis photoplethysmographic. Sensor tersebut
+terdiri atas transmitter dan receiver infrared yang dipasang pada ujung jari tengah yang mana melalui jaringan kulit
+mampu mendeteksi volume darah. Fitur buzzer digunakan sebagai alarm jika denyut jantung mencapai 170 Beat
+Per Minute (BPM). Alat ini juga dilengkapi dengan aplikasi Android yang memudahkan pihak lain memonitoring
+keadaan denyut nadi pelari. Bluetooth HC-05 sebagai modul komunikasi data antara Arduino dan Android. Alat
+yang dirancang memiliki error maksimum sebesar 0,73% berdasarkan data percobaan dari 5 partisipan.
+Berdasarkan hasil pengujian, sistem monitoring frekuensi denyut nadi secara real time mampu mendeteksi
+serangan jantung saat berlari dan adanya fitur data logger digunakan untuk rekap medis keadaan frekuensi denyut
+jantung saat berlari tanpa menggunakan aplikasi smartphone Android.

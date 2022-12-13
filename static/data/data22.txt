@@ -1,0 +1,17 @@
+Pandemi Covid-19 yang menyebar secara luas ke seluruh dunia telah menyebabkan
+perubahan dalam berbagai aspek kehidupan. Kegiatan penjarakan sosial dan isolasi mandiri
+menuntut sekolah untuk mengubah metode pembelajaran menjadi pembelajaran daring.
+Dengan adanya perkembangan teknologi, pembelajaran daring sangat terbantu dengan adanya
+e-learning. Namun, beberapa masalah dan tantangan timmbul selama diberlakukannya
+pembelajaran dengan menggunakan e-leanring. Penelitian ini bertujuan untuk mengidentifikasi
+faktor-faktor yang mempengaruhi penggunaan e-leaning selama pandemi Covid-19
+berdasarkan sudut pandang siswa sekolah dasar. Sebuah ekstensi dari The Unified Theory of
+Acceptance and Use of Technology atau UTAUT diusulkan dengan menambahkan dua faktor
+tambahan, yaitu namely E-learning Design dan Parental Assistance. Penelitian dilakukan
+dengan menggunakan kuisioner yang disebarkan secara daring dan sebanyak 217 data dari
+responden yang berasal dari SD Muhammadiyah 26 Surabaya berhasil dikumpulkan. Data
+dianalisis dengan menggunakan metode PLS-SEM. Penelitian ini menemukan bahwa
+Performance Expectancy, Hedonic Motivation, Habit dan Parental Assistance merupakan
+faktor kunci yang mempengaruhi niat dari siswa untuk mengadopsi e-learning. Selain itu,
+penelitian ini juga menemukan bahwa Habit adalah faktor kunci yang mempengaruhi Use
+Behavior siswa sekolah dasar untuk menggunakan e-learning.

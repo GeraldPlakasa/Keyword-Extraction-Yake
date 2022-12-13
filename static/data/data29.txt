@@ -1,0 +1,21 @@
+Salah satu program pemerintah yang sedang berjalan yaitu program Bantuan Stimulan Perumahan Swadaya
+(BSPS) dengan targetnya adalah masyarakat berpenghasilan rendah dan memiliki rumah yang belum layak huni.
+Rumah Tidak Layak Huni yang selanjutnya disingkat RTLH adalah rumah yang tidak memenuhi persyaratan
+keselamatan bangunan, kecukupan minimum luas bangunan, dan kesehatan penghuni. Adapun kriteria yang harus
+dipenuhi untuk mendapatkan Bantuan Stimulan Perumahan Swadaya ini Kondisi Atap, Dinding, Pintu & Jendela,
+Lantai, Pondasi,Sanitasi, dan calon penerima harus merupakan warga negara Indonesia dan mempunyai sertifikat
+hak milik atas tanah rumah tersebut. Dalam menentukan Penerima Bantuan Stimulan Perumahan Swadaya Dinas
+Perumahan dan Kawasan Permukiman masih kurang efektif dalam penentuan penerima Bantuan Stimulan
+Perumahan Swadaya seperti banyaknya calon penerima Bantuan Stimulan Perumahan Swadaya sedangkan dana
+bantuan stimulan perumahan swadaya yang turun dari pusat hanya sedikit dari banyaknya calon penerima bantuan
+stimulan perumahan swadaya maka di perlukan perangkingan dari setiap kriteria-kriteria dari calon penerima
+bantuan yang ada. Selain itu data survey masih ditulis menggunakan kertas secara manual sehingga rawan untuk
+hilang ataupun rusak dan juga proses pemilihan Penerima Bantuan Selama ini belum terpublikasi. Metode Simple
+Additive Weighting digunakan untuk penentuan diterima/ tidak berdasarkan urutan rangking prioritas. Selain itu
+dengan menggunakan Aplikasi Web bertujuan untuk mempublikasi hasil penilaian Bantuan Stimulan Perumahan
+Swadaya di Dinas Perumahan dan Kawasan Permukiman. Dengan dibangunnya sistem ini dapat mempermudah
+Surveyor dalam proses penginputan data penduduk dan penginputan data nilai sehingga membantu dalam proses
+pemilihan Penerima Bantuan Stimulan Perumahan Swadaya. Sistem yang telah dibuat ini dapat membantu dalam
+pemilihan Penerima Bantuan Stimulan Perumahan Swadaya karena selain memberikan hasil perhitungan
+perankingan tetapi juga menampilkan grafik visualisasi sehingga mempermudah dan mempercepat dalam
+pengambilan keputusan.

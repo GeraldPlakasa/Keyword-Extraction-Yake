@@ -1,0 +1,32 @@
+Sistem inventory adalah serangkaian aktivitas
+dalam melakukan proses pengelolaan data barang yang
+terdapat pada penyimpanan yang memiliki peran dan fungsi
+krusial untuk menyelesaikan permasalahan dalam mengelola,
+mengontrol, dan memudahkan pelaporan data barang.
+Sistem inventory diperlukan salah satunya untuk
+memanajemen persediaan stok vaksin. Saat ini manajemen
+persediaan vaksin pada dinas kesehatan hingga ke level
+puskesmas masih ditemukan permasalahan, seperti belum
+adanya standar perhitungan kuantitas pengadaan dan safety
+stock yang optimal sehingga persediaan menjadi tidak merata
+di beberapa wilayah yang menyebabkan terjadinya kelebihan
+dan kekosongan stok. Hal ini membuat pengelolaan biaya
+persediaan vaksin tidak efisien. Oleh karenanya, diperlukan
+sistem inventory yang mampu meningkatkan efisiensi
+pengelolaan stok vaksin yang optimal dengan
+meminimumkan biaya. Penelitian yang dilakukan, yaitu
+membangun smart inventory system menerapkan metode
+economic order quantity untuk mengoptimalkan persediaan
+dan mengimplementasikan teknologi RFID (Radio Frequency
+Identification) berbasis Internet of Things (IoT) untuk
+mengefisiensi pencatatan pergerakan stok secara otomatis.
+Sistem dianalisis dan dirancang menggunakan metode SDLC
+(System Development Life Cycle) sehingga spesifikasi
+kebutuhan diidentifikasi secara jelas agar dapat memecah
+permasalahan. Model yang digunakan adalah waterfall
+methodology. Selanjutnya dilakukan pengujian terhadap
+smart inventory system. Berdasarkan pengujian yang
+dilakukan menunjukkan smart inventory system memenuhi
+kebutuhan dalam pengelolaan stok vaksin secara efektif dan
+efisien dengan performance error yang terjadi hanya sebesar
+1,98%.

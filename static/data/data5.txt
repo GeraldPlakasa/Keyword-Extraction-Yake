@@ -1,0 +1,19 @@
+Di abad ini pemanfaatan teknologi informasi sudah menjadi kebutuhan krusial bagi tiap individual, oganisasi,
+pendidikan, bisnis hingga ke pemerintahan. Dalam menjalankan tugas fungsinya Balai Besar Taman Nasional
+Gunung Gede Pangranggo (BBTNGGP) terus berusaha memberikan pelayanan, informasi dan edukasi kepada
+masyarakat dan pengunjung. Namun tidak sedikit didapatkan pengunjung merasa kesulitan dalam mendapatkan
+informasi saat mengakses website Taman Nasional Gunung Gede Pangranggo. Seperti terbatasnya metode
+pembayaran dalam pemesanan Surat Izin Masuk Kawasan Konservasi (SIMAKSI) secara online, Tampilan
+website kurang menarik, Kualitas informasi yang kurang efisien dimana pengunjung melakukan registrasi online
+dengan pengambilan tiket dan cek kesehatan secara offline, Kualitas layanan interaksi antara pengelola taman
+nasional dan pengunjung yang belum maksimal, oleh karena itu dibutuhkan evaluasi kualitas terhadap layanan
+website tersebut. Penelitian ini membatasi permasalahan yang di bahas yaitu menganalisis kualitas website resmi
+Balai Besar Taman Nasional Gunung Gede Pangranggo dari sisi end-user dengan menerapkan WebQual 4.0
+dengan memakai 3 variable yaitu Usability, Information Quality dan Service Interaction sehingga dari ketiga
+variable tersebut dapat menghasilkan kepuasan pengguna User Satisfaction. Data penelitian ini menggunakan data
+151 responden yang di olah dengan software SPSS dengan melalui beberapa tahap uji, seperti uji reliabilitas data,
+uji validasi data, analisis deskriptif, uji korelasi dan uji regresi linier berganda. Hasil analisis dari kualitas website
+ini disimpulkan bahwa variable usability dan information quality memiliki nilai lebih baik dibandingkan variable
+service interaction quality. Dengan demikian perlu adanya peningkatan kualitas website Balai Besar Taman
+Nasional Gunung Gede Pangranggo dengan menganalisis website tersebut yang sesuai dengan persepsi pengguna
+akhir dan harapan para penggunanya.

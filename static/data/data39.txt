@@ -1,0 +1,11 @@
+Penelitian terdahulu menunjukkan tingginya risiko kegagalan dari proyek-proyek penerapan teknologi informasi
+dan komunikasi (TIK) untuk pembangunan. Salah satu tantangan utamanya adalah mendapatkan kepercayaan dari
+masyarakat dan memastikan bahwa program-program itu lestari. Penelitian ini akan membahas detail proses
+implementasi TIK untuk pembangunan menggunakan lensa Actor Network Theory. Detail proses implementasi
+TIK nantinya akan dianalisis berdasarkan fase-fase pada Actor Network Theory. Studi kasus penelitian ini adalah
+sebuah desa bernama “Kampung Cyber” di Yogyakarta yang sudah menerapkan TIK sejak tahun 2008. Penelitian
+ini merupakan hasil dari studi kualitatif berdasarkan wawancara dan observasi dari masyarakat Kampung Cyber
+beserta dengan tokoh-tokoh utama dalam implementasi TIK. Detail temuan penelitian ini dapat dijadikan referensi
+dalam implementasinya di daerah lain. Hasil penelitian menunjukkan Actor Network Theory mampu memetakan
+bagaimana proses implementasi TIK di Kampung Cyber. Hasil analisis juga menunjukkan perubahan peran Ketua
+RT yang di masa awal menjadi sangat dominan, yang akhirnya digantikan oleh masyarakat.

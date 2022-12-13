@@ -1,0 +1,15 @@
+Analisis penyebab kematian ibu pasca postpartum sangatlah penting dalam mengurang
+kematian ibu. Angka kematian ibu pasca postpartum diindonesia sangatlah tinggi sekitar 359
+dalam 100.000 kelahiran. Faktor -faktor kematian ibu pasca postpartum jarang dianalisis lebih
+dalam sehingga tidak ada penanganan berkelanjuttan. Pada penelitian ini penulis
+menggunakan system fuzzy rule-based fog cloud computing untuk memonitoring kematian ibu
+berdasarkan tanda-tanda vital dan tanda-tanda fisik dengan menggunakan 10 parameter
+penyebab kematian ibu masa postpartum. Fog cloud digunakan untuk pengolahaan data dalam
+sever local agar mengurangi beban saat menggunakan cloud computing. Analisis awal
+parameter kematian ibu dirubah kedalam rentang low, medium dan high kemudian
+dimonitoring pada tujuh hari pasca postpartum dari hasil analisis yang dilakukan didapat
+faktor dominan kematian ibu pasca postpartum untuk tanda-tanda vital dipengaruhi oleh Blood
+Pressure dengan nilai MF 0,44 dengan status “High” untuk tanda-tanda fisik dipengaruhi oleh
+Anogenital Lochea Sanguinolenta dengan nilai MF 0,46 dengan status dalam system “High”.
+Parameter lain tidak terlalu berpengaruh terhadap kematian ibu cenderung turun dari hari
+pertama hingga hari ke tujuh pasca postpartum.

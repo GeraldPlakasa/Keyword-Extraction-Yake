@@ -1,0 +1,1 @@
+easily plugin pulse sensor, beat per minute (BPM), photoplethysmographic, monitoring

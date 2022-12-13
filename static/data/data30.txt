@@ -1,0 +1,19 @@
+Latar Belakang: Deteksi dini kanker payudara akan memberikan tingkat kesembuhan lebih tinggi bagi penderita
+jika penderita datang lebih dini ketika terdapat gejala adanya kanker payudara. Namun, masyarakat Indonesia
+cenderung datang ke pusat kesehatan dalam kondisi kanker stadium lanjut sehingga sulit diobati. Ketersediaan
+layanan informasi tentang kanker payudara, dan pemeriksaan mandiri berbasis telepon pintar menjadi kebutuhan
+saat ini. Oleh karena itu diperlukan sosialisasi yang benar tentang kanker. Salah satu alat sosialisasi yang dianggap
+efektif adalah media digital. Di Indonesia, aplikasi berbasis telepon pintar sudah dibuat untuk kanker serviks, tetapi
+untuk kanker payudara hanya tersedia dalam bentuk hologram berisi simulasi gerakan Periksa Payudara Sendiri
+(SADARI). Aplikasi hologram ini belum menyertakan informasi tentang kanker payudara secara komprehensif.
+Tujuan: Menyediakan layanan informasi tentang kanker payudara, dan penjelasan serta simulasi bagaimana
+memeriksa secara mandiri yang berbasis menggunakan aplikasi berbasis telepon pintar. Metode: Metode
+penelitian terdiri atas desain aplikasi, pengumpulan asset sebagai sumber database, validasi aplikasi, dan uji coba
+aplikasi kepada 100 responden menggunakan teknik purposive sampling. Evaluasi kelayakan aplikasi dilakukan
+menggunakan kuesioner pre-test dan post-test. Hasil: Aplikasi berhasil dibuat dan dapat diunduh melalui google
+play store. Aplikasi ini membantu meningkatkan pengetahuan responden tentang kanker dari rata-rata 43,38%
+menjadi 77,72%. Sebesar 34.6% responden setuju dan 61.8% sangat setuju bahwa aplikasi ‘Be Care’ berguna dan
+bermanfaat. Kesimpulan: Aplikasi “Be Care” dinilai layak untuk digunakan dalam meningkatkan pengetahuan,
+kesadaran, dan keterampilan terkait deteksi dini kanker payudara. Aplikasi berbahasa Indonesia dengan status ‘free
+access’ ini diharapkan menjadi salah satu media efektif yang berkontribusi dalam menurunkan jumlah kasus baru
+dan kematian akibat kanker.

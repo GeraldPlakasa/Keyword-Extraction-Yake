@@ -1,0 +1,12 @@
+Proses bisnis adalah serangkaian langkah yang saling terkait yang ditugaskan kepada
+setiap pemangku kepentingan untuk pekerjaan tertentu untuk memberikan produk atau layanan
+kepada pelanggan. Salah satu proses bisnis di Dinas Pemuda dan Olahraga (DISPORA)
+Salatiga adalah kegiatan peminjaman gedung. Selama ini proses peminjaman gedung masih
+dilakukan secara manual sehingga menimbulkan kendala dalam penjadwalan pinjaman dan
+pembayaran. Berdasarkan penelitian sebelumnya menunjukkan bahwa penggunaan metode
+scrum sangat cocok diterapkan dalam pengembangan atau pengembangan sistem informasi
+karena metode scrum memiliki kelebihan yaitu dalam kecepatan atau waktu yang singkat.
+Dengan dibuatnya Sistem Informasi Pusat Olahraga (SIGORA) berbasis web dapat membantu
+mengatasi permasalahan yang ada di DISPORA karena dengan Sistem Informasi ini
+penjadwalan dapat dilakukan secara otomatis dan pembayaran dapat dilakukan dengan cara
+transfer sehingga memudahkan karyawan dan pelanggan.

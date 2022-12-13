@@ -1,0 +1,21 @@
+Reliabilitas atau keandalan merupakan salah satu
+sifat penting pada sebuah server dalam melayani pengguna.
+Salah satu cara mengukurnya ialah dengan melakukan uji
+perfoma. Penelitian ini bertujuan untuk mengetahui
+kemampuan RStudio Server pada infrastruktur cloud saat
+digunakan oleh multiuser dengan Elastic Stack sebagai sistem
+yang menangani pengumpulan, penyimpanan dan visualisasi
+data metriknya. Tahapan dimulai dengan mengumpulkan
+data berupa metrik sistem oleh Metricbeat, lalu diproses
+Logstash dan disimpan menjadi index dalam Elasticsearch,
+visualisasi data ditampilkan oleh Kibana. Pengujian kinerja
+server dilakukan dengan menjalankan script R berdurasi 2
+menit dan 7 menit secara simultan. Hasil pengujian berupa
+catatan CPU Usage, Memory Usage dan durasi penyelesaian
+script selanjutnya di plotting pada R. Hasil analisa dari
+plotting data menunjukkan jumlah user yang dapat
+menggunakan Rstudio Server dengan spesifikasi 2 CPU dan
+RAM 4GB secara optimal ialah maksimal 2 user pada script
+dengan run time 2 menit dan 7 menit, lebih dari jumlah user
+itu akan mempengaruhi waktu proses penyelesaian script
+menjadi tingkat performa sedang hingga berat.

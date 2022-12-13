@@ -1,0 +1,21 @@
+Teknologi informasi di suatu organisasi yang
+sudah berjalan harus diaudit agar diketahui kelebihan-
+kelebihan maupun kekurangannya. Politeknik Sambas
+(Poltesa) merupakan salah satu politeknik di Kalimantan
+Barat yang telah menerapkan teknologi dalam proses
+administrasi maupun akademik sebagai penunjang
+kegiatannye. Audit yang dilakukan pada Poltesa
+menggunakan frame work COBIT 2019. Metode yang kami
+pergunakan pada penelitian ini terdiri dari bebrapa
+langkah, yaitu perencanaan, tindakan, pengamatan,
+pengolahan dan analisis data, serta pemberian rekomendasi.
+Berdasarkan hasil dari audit yang dilakukan pada teknologi
+informasi Poltesa, didapatkan rata-rata nilai sebesar 3,21
+dengan nilai maturity level pada domain antara nilai 2
+sampai dengan 4, yang berarti sistem telah dioperasikan
+dengan baik, akan tetapi belum secara maksimal.
+Manajemen teknologi informasi yang diharapkan di Poltesa
+dapat dipenuhi dan telah dilakukan dengan baik, karena
+nilai antara rata-rata level saat penelitian dilakukan
+dibandingkan dengan rekomendasi level menunjukkan gap
+yang tidak terlalu besar.

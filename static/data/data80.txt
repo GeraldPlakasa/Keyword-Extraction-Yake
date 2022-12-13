@@ -1,0 +1,33 @@
+Segmentasi rambu jalan dan sistem pengenalan
+merupakan aspek penting dan esensial untuk digunakan pada
+sistem autopilot, smart car atau autonomous vehicle yang
+memungkinkan kendaraan dapat berjalan tanpa pengemudi
+manusia. Namun demikian pada paper ini citra rambu jalan
+yang diproses dalam bentuk image dan bukan vidio/kamera.
+Penelitian ini bertujuan memperoleh citra warna rambu jalan
+dengan presisi yang tinggi. Pada penelitian ini ditawarkan
+metode segmentation rambu jalan dengan mengembangkan
+Fuzzy C-means dengan menginjeksikan teknik mask-
+tresholder untuk mendapatkan hasil segmentasi warna rambu
+jalan dengan presisi tinggi. Mula-mula citra dideteksi dalam
+ruang warna RGB kemudian diubah menjadi model warna
+L*a*b dan dilanjukan ekstraksi untuk mendapatkan
+komponan warna *a*. Fuzzy C-means dterapkan pada citra
+warna *a* untuk segmentasi foreground dan background.
+Proses dilanjutkan dengan operasi opening – closing dan hole
+filling untuk mereduksi noise pada hasil segmentasi. Sampai
+pada tahap ini hasil segmentasi yang diperoleh adalah citra
+binary dimana foreground dalam warna putih dan bacground
+dalam warna hitam. Oleh karena itu untuk mendapatkan
+citra hasil segmentasi rambu jalan dalam ruang warna RGB
+maka diperlukan proses konvolusi. Teknik konvolusi yang
+dilakukan pada penelitian ini adalah dengan mengalikan tiap
+piksel citra mask tresholder dengan citra semula dalam ruang
+warna RGB. Citra mask tresholder yang digunakan dalam
+penelitian ini adalah citra binary hasil segmentasi dengan
+Fuzzy Cmeans. Metode yang ditawarkan telah diuji dengan
+citra rambu jalan sejumlah 18 citra. Hasil yang diperoleh
+menunjukkan kinerja metode yang diusulkan mampu
+mensegmentasi citra rambu jalan dalam sesuai warna citra
+semula. Menggunakan metode jaccard untuk mengukur
+akurasi kinerja didapat tingkat akurasi adalah 97,73%.

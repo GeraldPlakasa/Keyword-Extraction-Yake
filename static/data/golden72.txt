@@ -1,0 +1,1 @@
+Klasifikasi, Hoaks, Tweet, Pembelajaran Mesin, Random Forest, Naïve Bayes, Stochastic Gradient Descent, Rocchio

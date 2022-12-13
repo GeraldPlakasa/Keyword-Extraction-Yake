@@ -1,0 +1,34 @@
+Perkembangan teknologi yang pesat membuat kita
+lebih mudah dalam menemukan informasi-informasi yang
+dibutuhkan. Permasalahan muncul ketika informasi tersebut
+sangat banyak. Semakin banyak informasi dalam sebuah
+modul maka akan semakin panjang isi teks dalam modul
+tersebut. Hal tersebut akan memakan waktu yang cukup
+lama untuk memahami inti informasi dari modul tersebut.
+Salah satu solusi untuk mendapatkan inti informasi dari
+keseluruhan modul dengan cepat dan menghemat waktu
+adalah dengan membaca ringkasannya. Cara cepat untuk
+mendapatkan ringkasan sebuah dokumen adalah dengan
+cara peringkasan teks otomatis. Peringkasan teks otomatis
+(Automatic Text Summarization) merupakan teks yang
+dihasilkan dari satu atau lebih dokumen, yang mana hasil
+teks tersebut memberikan informasi penting dari sumber
+dokumen asli, serta secara otomatis hasil teks tersebut tidak
+lebih panjang dari setengah sumber dokumen aslinya.
+Penelitian ini bertujuan untuk menghasilkan peringkasan
+teks otomatis pada modul pembelajaran berbahasa Indonesia
+dan mengetahui hasil akurasi peringkasan teks otomatis yang
+menerapkan metode Cross Latent Semantic Analysis (CLSA).
+Jumlah data yang digunakan pada penelitian ini sebanyak 10
+file modul pembelajaran yang berasal dari modul para dosen
+Universitas Mercu Buana, dengan format .docx sebanyak 5
+file dan format .pdf sebanyak 5 file. Penelitian ini
+menerapkan metode Term Frequency-Inverse Document
+Frequency (TF-IDF) untuk pembobotan kata dan metode
+Cross Latent Semantic Analysis (CLSA) untuk peringkasan
+teks. Pengujian akurasi pada peringkasan modul
+pembelajaran dilakukan dengan cara membandingkan hasil
+ringkasan manual oleh manusia dan hasil ringkasan sistem.
+Yang mana pengujian ini menghasilkan rata-rata nilai f-
+measure, precision, dan recall tertinggi pada compression rate
+20% dengan nilai berturut-turut 0.3853, 0.432, dan 0.3715.

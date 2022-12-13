@@ -1,0 +1,13 @@
+Indonesia memiliki jumlah penduduk lebih dari 250 juta jiwa, sehingga memungkinkan terjadinya masalah baru
+terutama pada era pandemi Covid-19. Masalah ketenagakerjaan yang semakin meningkat tersebut meliputi
+pengangguran, pengurangan jam kerja dan pemotongan gaji, serta kesenjangan sosial. Masalah tersebut
+mendorong penulis untuk membuat sebuah aplikasi pencari kerja sampingan yang mempertemukan penyedia
+pekerjaan sampingan dengan pencari pekerjaan sampingan dalam satu wadah digital dalam rangka mendorong
+terciptanya gotong royong ekonomi di dalam kehidupan masyarakat. Aplikasi yang akan dibuat oleh penulis
+menggabungkan fitur-fitur dari aplikasi Grab/Go-JEK dengan aplikasi E-commerce. Pekerjaan sampingan yang
+ditawarkan di dalam aplikasi memungkinkan bersifat sederhana dan temporer. Pengguna aplikasi dapat memilih
+pekerjaan sampingan berdasarkan lokasi yang diinginkan. Kemudian, pengguna aplikasi juga dapat menyediakan
+lapangan pekerjaan sampingan untuk pengguna aplikasi lain sehingga masyarakat tidak akan kesulitan dalam
+mencari informasi pekerjaan sampingan secara konvensional/luring karena semuanya sudah tersedia dalam satu
+aplikasi. Hasil percobaan menunjukkan hasil skor rata-rata menunjukkan skor 70 dengan grade scale C dan masuk
+kategori OK. Artinya secara usability, aplikasi sudah berjalan dengan baik dan mudah digunakan pengguna.

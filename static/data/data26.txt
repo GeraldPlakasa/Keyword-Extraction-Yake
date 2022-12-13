@@ -1,0 +1,19 @@
+Gangguan mental saat ini masih menjadi permasalahan bagi bidang kesehatan di seluruh dunia. Salah satu jenis
+dari gangguan mental yang dapat diprediksi saat ini adalah stres. Stres memiliki dampak yang sangat besar bagi
+Kesehatan penderitanya, namun masih banyak masyarakat yang terlalu meremehkan perihal keberadaan penyakit
+stres ini. Hal ini salah satunya disebabkan oleh media yang dapat digunakan untuk melakukan pengecekan tingkat
+stres masih sangat sedikit. Sejauh ini, pengecekan kondisi kesehatan mental khususnya stres dapat dilakukan
+melalui konsultasi ke psikolog terdekat. Namun, tidak banyak masyarakat yang mengetahui hal itu. Ketika
+seseorang mengalami gangguan kecemasan khususnya stres, maka ia akan cenderung melakukan tindakan yang
+dapat mengekspresikan kecemasannya di media sosial. Kegiatan ini dinamakan Self Disclosure. Hal ini dianggap
+dapat mengurangi beban penderita gangguan mental tersebut. Mengenai hal itu, saat ini penggunaan media sosial
+menjadi hal yang sangat lumrah dimasyarakat khususnya remaja. Salah satu jenis sosial media yang banyak
+digunakan oleh masyarakat adalah Twitter. Salah satu keunggulan Twitter adalah dikarenakan twitter lebih mudah
+digunakan dan memiliki tampilan yang sederhana. Selain itu, penulisan tweet pada akun twitter memiliki
+pembatasan jumlah karakter sehingga tweet yang ditulis pengguna lebih jelas dan ringkas. Oleh karena itu,pada
+penelitian ini akan dibangun fitur untuk mendeteksi tingkat stres melalui tweet pada akun twitter dengan
+menggunakan metode Naïve Bayes yang mana akan dapat mengklasifikasikan tingkat stres siswa berdasarkan
+tweet siswa kedalam tiga kelas yaitu kelas stres ringan, stres sedang dan stres berat. Fitur ini nantinya akan
+diimplementasikan pada sistem monitoring stres siswa berbasis website sebagai bahan pertimbangan bagi siswa
+dan guru bimbingan konseling dalam proses konseling siswa. Berdasarkan pengujian akurasi yang dilakukan
+dengan 90 data latih dan 4 data uji, maka didapatkan tingkat akurasi fitur ini mencapai angka 75%.

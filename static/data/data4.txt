@@ -1,0 +1,19 @@
+Teknologi informasi dan komunikasi yang pesat
+berdampak positif yaitu berupa kecepatan dan kemudahan
+untuk mendapatkan informasi dan data dengan penggunaan
+smartphone yang berbasis android. Tetapi, disisi lain juga
+memberikan dampak negatif berupa kejahatan siber.
+Penelitian ini bertujuan untuk mengangkat bukti data dan
+informasi digital dalam mengidentifikasi kasus kejahatan
+pornografi dengan memakai aplikasi Signal Private
+Messenger (SPM) pada smartwatch selaku perangkat
+korespondensii. Proses analisis forensics pada pengkajian ini
+memakai metode National Insitute of Justice (NIJ) dan tiga
+tools forensik, yaitu Wondershare Dr. Fone, MOBILedit, dan
+Oxygen Forensics. Skenario penelitian adalah terjadinya
+tindak pidana pornografi. Penelitian ini berhasil mengangkat
+barang bukti berupa photos, videos, music, contact, dan chatt.
+Pengujian dengan Wondershare Dr. Fone dihasilkan akurasi
+80%, MobilEdit dihasilkan akurasi 40%, dan Oxygen
+dihasilkan akurasi 0%. Oleh karena itu disimpulkan bahwa
+Wondershare Dr. Fone memberikan hasil yang terbaik.

@@ -1,0 +1,14 @@
+Keberadaan lazy class sebagai code smell dapat meningkatkan jumlah class yang tidak begitu perlu pada
+perangkat lunak, sehingga meningkatkan biaya pemeliharaan dari segi waktu dan usaha. Ancaman tersebut dapat
+diatasi dengan restrukturisasi internal atau refactoring perangkat lunak. Namun, akibat keterbatasan tool,
+mengharuskan proses refactoring dilakukan secara manual, sehingga membutuhkan waktu dan biaya
+pemeliharaan yang tinggi. Penelitian ini mengajukan sebuah tool yang dapat mendeteksi dan me-refactoring lazy
+class secara otomatis. Penelitian yang diajukan ini bertujuan untuk menghindari refactoring lazy class secara
+manual. Input dari tool merupakan lokasi sebuah projek. Proses dimulai dari mendeteksi file dan class pada
+projek. Kemudian dilakukan proses deteksi lazy class dengan mengukur karakteristik perangkat lunak atau
+software metrics. Tahapan terakhir yaitu proses refactoring otomatis, yang dilakukan dengan membuat, me-
+replace, atau menghapus file, untuk menghasilkan projek yang telah di-refactor. Berdasarkan hasil percobaan,
+tool yang dikembangkan ini mampu mendeteksi dan me-refactoring lazy class dengan tingkat akurasi sama
+dengan manual dan proses kecepatannya hanya 5,71 detik. Sehingga hal ini menunjukkan bahwa tool dapat
+bekerja secara akurat dan lebih cepat dibandingkan dengan cara manual. Serta tool ini diharapkan dapat
+membantu para pengembang untuk meminimalisir effort dari segi biaya dan waktu dalam melakukan refactoring.

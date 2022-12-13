@@ -1,0 +1,12 @@
+Pembelajaran online adalah solusi ketika lembaga pendidikan ditutup karena wabah COVID-19. Sistem
+Manajemen Pembelajaran (LMS) merupakan alat untuk memfasilitasi pembelajaran online. Google Classroom
+dianggap sebagai salah satu LMS yang paling cepat diimplementasikan di pendidikan tinggi. Tujuan dari penelitian
+ini adalah untuk mengukur tingkat usability Google Classroom sebagai salah satu alat yang digunakan untuk
+memfasilitasi pembelajaran online di STMIK Dipanegara Makassar. Tingkat usability akan menentukan apakah
+penggunaan layanan Google Classroom telah efektif, efisien, dan memberikan kepuasan terhadap mahasiswa.
+Tingkat usability Google Classroom diukur menggunakan USE-Questionnaire. Berdasarkan hasil pengukuran
+usability terhadap Google Classroom diperoleh nilai rata-rata untuk keseluruhan variabel Usefulness (Daya Guna),
+Ease of Use (Kemudahan Penggunaan), Ease of Learning (Kemudahan Belajar), dan Satisfaction (Kepuasan
+Pengguna) adalah 459,1 atau sebesar 76%. Maka dapat disimpulkan bahwa mahasiswa setuju tingkat usability
+Google Classroom dirasakan sudah baik dan penggunaan layanan Google Classroom telah efektif, efisien, dan
+memberikan kepuasan terhadap mahasiswa dengan tingkat presentase sebesar 76%.

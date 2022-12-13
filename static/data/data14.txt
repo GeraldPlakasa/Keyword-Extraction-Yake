@@ -1,0 +1,12 @@
+Penyakit Coronavirus 2019 (Covid-19) merupakan penyakit menular, disebabkan oleh virus SARS-CoV-2 yang
+mempengaruhi sistem pernapasan pada tubuh manusia dan dapat mengakibatkan kematian. Ratusan juta kasus
+telah dilaporkan di berbagai negara dan wilayah. Sejak bulan Maret 2020 pemerintah indonesia menetapkan
+Covid-19 sebagai bencana nasional. Pasien Covid-19 “Tanpa Gejala” dan “Gejala Ringan” di wajibkan isolasi
+mandiri di rumah dan di pantau oleh petugas kesehatan melalui telepon. Karena keterbatasaan jumlah petugas
+kesehatan serta sarana dan prasarana. Penulis membuat penelitian yang bertujuan membantu petugas kesehatan
+dalam memantau pasien Covid-19 yang melakukan isolasi mandiri di rumah. Dengan menggunakan metode
+waterfall dihasilkan sebuah aplikasi “Jurnal Harian Pasien Covid-19 untuk Pemantauan Isolasi mandiri (PISOM)”.
+Aplikasi ini kemudian di uji dengan Usability Testing menggunakan metode System Usability Scale (SUS),
+Sehingga diperoleh penilaian terhadap Aplikasi ini berada pada Grade B, dalam hal ini aplikasi PISOM dapat
+dijadikan alat pendukung untuk membantu petugas kesehatan memantau pasien Covid-19 yang melakukan isolasi
+mandiri di rumah.

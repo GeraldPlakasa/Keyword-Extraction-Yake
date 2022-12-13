@@ -1,0 +1,28 @@
+UPT TIK UNTAN merupakan suatu lembaga yang
+melakukan pengelolaan TI. Tata kelola TI mencakup
+kepemimpinan, struktur serta proses organisasi yang
+memastikan bahwa TI dimanfaatkan seoptimal mungkin dan
+berkonsentrasi pada kinerja dan transformasi TI untuk
+memenuhi kebutuhan saat ini dan yang akan datang, baik
+dari sudut internal maupun eksternal. COBIT 2019 adalah
+kerangka kerja untuk tata kelola dan manajemen informasi
+dan teknologi perusahaan. Sedangkan COBIT Performance
+Management merupakan model yang berisi kerangka dasar
+dalam memberikan panduan untuk menilai dan mengukur
+tingkat kapabilitas dan tingkat kematangan yang berkaitan
+dengan proses tata kelola dan manajemen TI. Hasil
+pengukuran tata kelola TI pada UPT TIK UNTAN
+dinyatakan bahwa tingkat kapabilitas proses APO08
+(Managed Relationships) yang dicapai berada pada tingkat 5.
+Tingkat kapabilitas proses APO09 (Managed Service
+Agreements) yang dicapai berada pada tingkat 1. Sedangkan
+tingkat kapabilitas proses APO11 (Managed Quality) yang
+dicapai berada pada tingkat 2. Kesenjangan antara tingkat
+kapabilitas proses saat ini dan tingkat kapabilitas harapan
+pada objektif proses APO08 bernilai 0, sedangkan pada
+objektif proses APO09 dan APO11 bernilai -1. Pada objektif
+proses APO09 kesenjangannya 2%, sedangkan pada objektif
+proses APO11 kesenjangannya 8%. Berdasarkan hasil
+analisis, maka diberikan rekomendasi perbaikan yang
+mengacu pada COBIT 2019 untuk meningkatkan tingkat
+kapabilitas harapan.

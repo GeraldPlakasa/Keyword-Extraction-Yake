@@ -1,0 +1,11 @@
+Deteksi kendaraan bergerak adalah salah satu elemen penting dalam aplikasi Intelligent Transport System (ITS).
+Deteksi kendaraan bergerak juga merupakan bagian dari pendeteksian benda bergerak. Metode K-Means berhasil
+diterapkan pada piksel cluster yang tidak diawasi untuk mendeteksi objek bergerak. Secara umum, K-Means
+adalah algoritma heuristik yang mempartisi kumpulan data menjadi K cluster dengan meminimalkan jumlah
+kuadrat jarak di setiap cluster. Dalam makalah ini, algoritma K-Means menerapkan jarak Euclidean, jarak
+Manhattan, jarak Canberra, jarak Chebyshev dan jarak Braycurtis. Penelitian ini bertujuan untuk membandingkan
+dan mengevaluasi implementasi jarak tersebut pada algoritma clustering K-Means. Perbandingan dilakukan
+dengan basis K-Means yang dinilai dengan berbagai parameter evaluasi yaitu MSE, PSNR, SSIM dan PCQI.
+Hasilnya menunjukkan bahwa jarak Manhattan memberikan nilai MSE = 1.328 , PSNR = 21.14, SSIM = 0.83 dan
+PCQI = 0.79 terbaik dibandingkan dengan jarak lainnya. Sedangkan untuk waktu pemrosesan data memperlihatkan
+bahwa jarak Braycurtis memiliki keunggulan lebih yaitu 0.3 detik.

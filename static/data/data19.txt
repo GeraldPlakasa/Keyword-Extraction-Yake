@@ -1,0 +1,20 @@
+Pada Tahun 2019 Organisasi Kesehatan Dunia
+(WHO) mendudukkan stroke sebagai tujuh dari sepuluh
+penyebab utama kematian. Kementerian Kesehatan
+menggolongkan stroke sebagai penyakit katastropik karena
+dampaknya luas secara ekonomi dan sosial. Oleh karena itu,
+diperlukan peran dari teknologi informasi untuk
+memprediksi stroke guna pencegahan dan perawatan dini.
+Analisis data yang memiliki kelas tidak seimbang
+mengakibatkan ketidakakuratan dalam memprediksi stroke.
+Penelitian ini membandingkan tiga teknik oversampling
+untuk mendapatkan model prediksi yang lebih baik. Data
+kelas yang sudah diseimbangkan diuji menggunakan tiga
+model Arsitektur Deep Neural Network (DNN) dengan
+melakukan optimasi pada beberapa parameter yaitu
+optimizer, learning rate dan epoch. Hasil paling baik
+didapatkan teknik oversampling SMOTETomek dan
+Arsitektur DNN dengan lima hidden layer, optimasi Adam,
+learning rate 0.001 dan jumlah epoch 500. Skor akurasi,
+presisi, recall, dan f1-score masing-masing mendapatkan 0.96,
+0.9614, 0.9608 dan 0.9611.

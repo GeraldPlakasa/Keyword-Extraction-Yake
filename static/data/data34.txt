@@ -1,0 +1,18 @@
+Community Development & Outreaching
+Universitas Tanjungpura merupakan salah satu unit di
+UNTAN yang bertugas mengelola beasiswa bagi mahasiswa.
+Sebagai salah satu bentuk pertanggungjawaban, tiap
+semesternya melakukan pengisian data monitoring dan
+evaluasi. Salah satu data yang perlu dikelola adalah kategori
+permasalahan akdemik yang tersedia dalam bentuk teks atau
+kalimat. Penelitian ini menghasilkan program yang
+dilengkapi dengan model klasifikasi yang mampu
+mengklasifikasikan permasalahan akdemik secara otomatis.
+Model klasifikasi dibangun dengan menggunakan algoritma
+Multinomial Naive Bayes. Dari hasil evaluasi, model
+klasifikasi mempunyai nilai akurasi dan presisi yang cukup
+baik sebesar 82,14% dan 84,98%. Dari model yang dibangun,
+digunakan untuk implementasi pada data uji. Hasil
+implementasi menunjukan kategori permasalahan akademik
+yang paling sering disampaikan oleh mahasiswa adalah
+Sistem Perkuliahan dan Teknologi.

@@ -1,0 +1,36 @@
+Pembelajaran yang dilakukan dalam sebuah
+institusi pendidikan perlu dilaporkan pelaksanaannya guna
+kebutuhan seperti monitoring dan evaluasi (Monev). Pada
+pembelajaran daring yang memanfaatkan Learning
+Management System (LMS) sebagai tool, maka telah terdapat
+fasilitas dokumentasi yang baik untuk setiap kegiatan
+pembelajaran daring tersebut. Namun, dari sisi pengelola
+atau administrator untuk menghasilkan laporan
+pembelajaran secara keseluruhan dengan klasifikasi tertentu,
+ditemukan beberapa kendala pelaporan. Hal tersebut
+dikarenakan tingkat keterpakaian yang beragam. Pelaporan
+pembelajaran daring bagi institusi menjadi penting guna
+mengetahui sejauh mana tingkat keterpakaian dan kualitas
+pembelajaran itu sendiri. Di Universitas Tanjungpura
+(Untan), pembelajaran daring dilaksanakan dengan LMS
+berbasis Moodle. LMS Untan dapat digunakan mulai dari
+dosen dan mahasiswa dan telah tersinkronisasi ke sistem
+informasi akademik (Siakad) Untan. Sistem pelaporan, pada
+penelitian ini akan memfasilitasi proses perekapan dan
+membantu mengetahui sejauh mana pembelajaran daring
+dilakukan dengan mengklasifikasikan atas tiga kategori
+(aktif, digunakan, dan untuk Latihan). Penelitian ini
+bertujuan untuk mengembangankan sistem pelaporan
+pembelajaran daring agar dapat membantu pengambil
+keputusan untuk mengetahui sejauh mana pelaksanaan
+pembelajaran daring diterapkan, dimana pelaporannya
+dapat dilakukan secara menyeluruh dan cepat.
+Pengembangan sistem dibuat dengan metode system
+development life cycle, dengan model Rapid Application
+Development (RAD) yaitu prototype. Data pada penelitian ini
+dikumpulkan dengan beberapa pendekatan yaitu studi
+literatur, observasi, dan Focus Group Discussion (FGD).
+Luaran penelitian ini berkontribusi, baik bagi pengguna
+(dosen dan mahasiswa) dalam meningkatkan kualiatas
+pembelajaran daringnya, juga memudahkan pengambil
+keputusan dalam mengelola pembelajaran daring.

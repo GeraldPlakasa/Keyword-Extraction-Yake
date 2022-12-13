@@ -1,0 +1,14 @@
+Tata Kelola Teknologi Informasi (TI) adalah proses yang memastikan penggunaan TI
+yang efektif dan efisien dalam memungkinkan organisasi untuk mencapai tujuannya (dari
+Gerrard, 2010) dalam[1].Makalah ini bertujuan untuk menetapkan matriks tata kelola TI dan
+mengukur kinerja tata kelola TI yang diterapkan pada suatu organisasi.Penelitian ini dilakukan
+dengan carastudi kasus pada suatu organisasi. Metode penelitian yang digunakan adalah
+dengan pendekatan metode kualitatif, dengan cara penyebaran kuesioner kepada responden,
+kemudian hasil kuesioner diolah menggunakan template “IT Governance one page” dan
+menilai kinerja tata kelola TI[2].Hasil penelitian ini menunjukkan bahwa susunan matriks tata
+kelola TI di PT. Pos Indonesia adalah Hibrida, yang menjelaskan bahwa Prinsip IT, Arsitektur
+TI, Infrastruktur TI dan Investasi TI lebih tersebar ke berbagai divisi. Hasil evaluasi kinerja
+tata kelola TI di PT. Pos Indonesia menunjukkan bahwa posisinya di bawah rata-rata dengan
+nilai kinerja 65,6 (kisaran 20 - 90, dengan nilai rata-rata adalah 69)[2]. Kontribusi hasil
+penelitian ini adalah untuk membantu manajemen dalam mengambil keputusan terkait
+keberlanjutan tata kelola TI di PT. Pos Indonesia.

@@ -1,0 +1,25 @@
+Sistem neuromuscular terdiri dari saraf motorik
+dan otot rangka yang menghasilkan aktivitas kelistrikan pada
+otot dan menyebabkan otot dapat berkontraksi dan
+menghasilkan gerak tubuh. Gangguan neuromuscular dapat
+terjadi pada sel saraf yang dinamakan Neuropathy dan pada
+sel otot yang dinamakan Myopathy. Aktivitas kelistrikan pada
+otot direkam melalui suatu alat yang dinamakan Electromi-
+ography (EMG). Pada penelitian ini dilakukan identifikasi
+sinyal EMG pasien sehat, myopathy dan neuropathy. Neurop-
+athy merupakan gangguan yang disebabkan oleh kerusakan
+sel saraf. Myopathy merupakan gangguan yang disebabkan
+oleh kerusakan sel otot. Penanganan dan pengobatan myopa-
+thy dan neuropathy berbeda, sehingga diperlukan suatu
+metode yang dapat mendiagnosis dengan tepat jenis
+gangguan yang dialami. Analisis karakteristik sinyal EMG
+dilakukan menggunakan metode dekomposisi Wavelet Dis-
+crete Dyadic dan variasi fitur Root Mean Square (RMS), ap-
+proximate entropy, spectral entropy dan Singular Value Decom-
+potition (SVD) entropy. Sinyal karakteristik yang diperoleh di
+identifikasi menggunakan metode klasifikasi Adaptive Neuro
+Fuzzy Inference System (ANFIS). Performa ANFIS dalam
+mengidentifikasi karakteristik sinyal EMG pada masing-mas-
+ing koefisien dekomposisi, menghasilkan performa terbaik
+pada koefisien aproksimasi ke-5 (cA5), dengan akurasi 100%,
+sensitivitas 100% dan spesivitas 100%.

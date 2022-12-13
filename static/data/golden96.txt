@@ -1,0 +1,1 @@
+lazy class, code smell, refactoring otomatis, software metrics

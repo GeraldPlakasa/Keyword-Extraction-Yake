@@ -1,0 +1,21 @@
+Segmentasi pembuluh darah pada retina diper-
+lukan pada deteksi dini penyakit Diabetic Retinopathy pada
+citra retina. Penelitian ini menggunakan tiga tahapan yaitu
+pre-processing, segmentasi dan post-processing yang akan
+membandingkan hasil dari 3 metode segmentasi yang
+menggunakan nilai Thresholding yaitu Adaptive Threshold-
+ing, Binary Thresholding, dan Otsu Thresholding. Hasil pen-
+gujian terhadap tiga metode yang digunakan menunjukan
+bahwa metode Binary Thresholding mendapat rata-rata
+akurasi, sensitivitas dan spesifisitas tertinggi yaitu 95%,
+58%, 98%. Untuk Adaptive Thresholding mendapat rata-rata
+akurasi sebesar 91%, sensitivitas 36%, spesititiftas 97%.
+Dan metode Otsu Thresholding mendapatkan rata-rata
+akurasi 86%, sensitivitas 22%, dan spesifisitas 90%. Dari
+hasil ketiga metode ini dapat dilihat akurasi yang dihasilkan
+oleh metode Thresholding sudah sangat baik dalam
+melakukan segmentasi citra, tetapi nilai sensitivitas dari
+masing-masing metode Thresholding masih rendah. Hal ini
+dapat disimpulkan metode Thresholding masih sulit
+mendapatkan lebih banyak fitur pembuluh darah pada citra
+retina.

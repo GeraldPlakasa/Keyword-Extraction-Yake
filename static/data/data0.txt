@@ -1,0 +1,15 @@
+Aksi penyerangan pada non-player character (NPC) merupakan salah satu substansi penting dalam pembuatan
+game. Dalam melakukan penyerangan diperlukan strategi khusus agar NPC tidak mudah dikalahkan. Salah
+satunya adalah adanya variasi serangan terhadap pemain. Salah satu metode yang digunakan untuk mengatur
+penyerangan NPC adalah rulebase. Metode rulebase dapat memberikan variasi serangan sesuai kondisi NPC,
+namun metode rulebase bisanya menghasilkan behaviour yang statis dan tidak adaptif jika terdapat kondisi baru.
+AI seperti ini akan mudah diprediksi dan repetitif sehingga menurunkan tingkat tantangan bermain game. Untuk
+mengatasi masalah tersebut banyak peneliti yang menggunakan teknik learning. Salah satunya menggunakan
+metode naïve bayes. Pada penelitian ini dilakukan penerapan metode naïve bayes sebagai strategi penyerangan
+NPC pada shooter game. Metode naïve bayes digunakan untuk keputusan serangan yang diambil oleh NPC.
+Adapun parameter yang digunakan untuk keputusan penyerangan adalah nyawa, jarak, jumlah granat, dan
+jumlah amunisi yang dimiliki NPC. Sedangkan keputusan penyerangan dibagi menjadi serangan tembak,
+serangan granat, dan serangan pisau. Hasil penelitian menunjukkan penerapan metode naïve bayes membuat
+NPC mampu melakukan penyerangan secara otonom jika terdapat kondisi baru dengan akurasi 80%. Penerapan
+metode naïve bayes juga lebih unggul dalam persentase kemenangan NPC dibanding metode rulebase. Tingkat
+kemenangan NPC menggunakan metode naïve bayes sebesar 60% sedangkan rulebase sebesar 16%.

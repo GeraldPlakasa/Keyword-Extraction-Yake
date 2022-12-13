@@ -1,0 +1,14 @@
+Puskesmas Jenggawah Kabupaten Jember dalam melaksanakan pengelolaan dokumen rekam medis tidak
+selamanya disimpan di ruang filing melainkan ada batas waktu penyimpanan. Dokumen rekam medis yang sudah
+melewati masa penyimpanan harus diretensi, karena bertambahnya jumlah dokumen rekam medis sehingga ruang
+penyimpanan akan penuh dan tidak mencukupi untuk rekam medis baru. Pelaksanaan retensi masih dilakukan
+secara manual, menyebabkan kegiatan retensi tidak berjalan dengan efektif dan efisien, serta tidak sesuai dengan
+perkembangan zaman. Penelitian ini bertujuan untuk merancang dan membuat sistem informasi retensi rekam
+medis rawat jalan di Puskesmas Jenggawah. Jenis penelitian yang digunakan adalah pengembangan sistem
+dengan metode RAD (Rapid Application Development) dan menggunakan teknik pengumpulan data kualitatif
+berupa wawancara, observasi, dokumentasi, dan brainstorming. Responden dalam penelitian ini yaitu kepala unit
+rekam medis, dan dua orang petugas rekam medis. Hasil dari penelitian ini adalah sebuah sistem informasi retensi
+rekam medis rawat jalan yang memiliki kemampuan untuk mengatur dan mengelola proses retensi, pelestarian,
+dan pemusnahan dokumen rekam medis rawat jalan serta terintegrasi dengan sistem informasi peminjaman dan
+pengembalian dokumen rekam medis sehingga dapat memudahkan petugas dalam melaksanakan kegiatan retensi
+di Puskesmas Jenggawah.

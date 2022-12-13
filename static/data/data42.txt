@@ -1,0 +1,14 @@
+Pembelajaran tutor di LMS menyimpan data berupa log yang dapat dimanfaatkan menjadi pengetahuan tentang
+kinerja tutor. Kinerja tutor yang lemah akan berdampak pada kinerja mahasiswa, dan kinerja institusi secara
+keseluruhan. Oleh karena itu, tujuan penelitian ini untuk (1) mendeskripsikan dan memantau kinerja tutor yang
+lemah pada aplikasi LMS berbasis moodle berdasarkan data log, (2) mendeteksi tutor yang termasuk dalam
+kategori outlier berdasarkan aktivitas yang dilakukan di LMS. Tahapan penelitian ini terdiri atas 4 tahap, yaitu
+melakukan pengambilan data log aktivitas tutor selama satu semester (n =25), melakukan analisis deskriptif, dan
+analisis clustering dengan k-means dan deteksi outlier. Hasil temuan penelitian ini menunjukkan bahwa sebagian besar
+tutor memanfaatkan LMS hanya untuk mengumpulkan tugas, menampilkan materi dan sedikit yang disertai dengan aktivitas-
+aktivitas lain seperti forum, diskusi, quiz dan lainnya. Tutor dalam menampilkan standar isi atau konten hanya memberikan
+instruksi pengumpulan tugas dan menampilkan materi dengan menyertakan link atau video dari sumber lain. Fakta lain
+menunjukkan bahwa tutor jarang memberikan feedback (umpan balik) baik secara narasi maupun penilaian ketika
+memberikan tugas sehingga totur dalam melakukan pembelajaran online belum memenuhi standar proses pada pembelajaran
+online. Oleh karena itu, sebagian besar tutor underperformed karena isi dan proses pembelajaran onlinenya belum sesuai
+standar.

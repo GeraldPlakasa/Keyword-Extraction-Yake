@@ -1,0 +1,21 @@
+PT Mabruro Tour and Travel merupakan perusahaan yang fokus pada penyelenggaraan Haji dan Umroh. Namun
+pandemi COVID-19 membuat Travel Mabruro membutuhkan pelayanan online dalam pengelolaan pendaftaran
+jamaah dan pengurusan administrasi guna mengurangi kontak fisik yang dilakukan, untuk itu Travel Mabruro
+memanfaatkan situs web yang telah dimiliki sebelumnya, untuk dilakukan penambahan layanan tersebut. Agar
+penambahan produk layanan Travel Mabruro dapat berjalan sesuai dengan kebutuhan dan tujuan, dilakukan
+perancangan user experience situs web yang diawali dengan analisis proses bisnis kemudian hasil analisis tersebut
+digunakan sebagai acuan dalam perancangan antarmuka. Untuk menghasilkan layanan yang sesuai kebutuhan,
+perancangan user experience menggunakan pendekatan Human-Centered Design (HCD). Berfokus dalam
+menghasilkan sistem layanan yang dapat berguna dan bermanfaat dengan melibatkan manusia, dalam hal ini
+pengguna dan stakeholder yang bertujuan untuk memenuhi kebutuhan dan kepuasan terhadap pengguna serta
+pihak stakeholder dapat mencapai tujuan organisasi yang sebelumnya direncanakan. Terdiri dari beberapa tahapan,
+tahap pertama yakni spesifikasi konteks penggunaan dan kebutuhan pengguna yang didapatkan dengan melakukan
+wawancara kepada pihak stakeholder yakni Travel Mabruro serta pihak pengguna yang nantinya menggunakan
+layanan, kemudian dilakukan pembuatan desain solusi yang menghasilkan wireframe, screenflow, dan high-
+fidelity prototype yang mana merupakan hasil akhir dari tampilan antarmuka situs web Travel Mabruro nantinya,
+kemudian dilakukan evaluasi menggunakan metode User Experience Questionnaire (UEQ). Hasil evaluasi yang
+dilakukan kepada 43 responden secara acak tersebut memperoleh nilai positif pada setiap skala UEQ, Untuk nilai
+skala daya tarik sebesar 1,698, skala kejelasan sebesar 1,547, skala efisiensi sebesar 1,552, skala ketepatan sebesar
+1,692, skala stimulasi sebesar 1,721 dan skala kebaruan sebesar 1,921. Berdasarkan perbandingan skala benchmark
+UEQ, mendapatkan kategori good pada skala daya tarik, efisiensi, ketepatan dan kebaruan. Kategori above avarage
+didapatkan pada skala kejelasan, dan untuk skala stimulasi menghasilkan kategori excellent.

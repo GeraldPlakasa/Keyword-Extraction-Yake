@@ -1,0 +1,19 @@
+Penelitian ini bertujuan untuk
+menyelesaikan masalah Economic Dispatch (EC)
+menggunakan metode Artificial Intelligence (AI). Salah
+satu metode AI tersebut adalah Metode Harmony
+Search Algorithm (HSA). HSA ini merupakan suatu
+metode yang terinspirasi dari nada-nada musik yang di
+dengar. Simulasi HSA ini akan di implementasikan
+pada sistem 6 unit generator 425 MW yang ada di
+IEEE. Hasil simulasi menggunakan metode HSA dan
+metode Quadratic Programming (QP) dengan rugi-rugi
+transmisi adalah hasil metode HAS memperoleh biaya
+bahan bakar sebesar 24057,9070 $/h dan rugi-rugi
+transmisi sebesar 7,1246 MW. Sedangkan
+menggunakan metode QP memperoleh biaya bahan
+bakar sebesar 24059,4257 $/h dan rugi-rugi transmisi
+7,1626 MW. Simulasi menggunakan metode HSA
+memperoleh biaya bahan bakar dan rugi rugi transmisi
+yang lebih kecil di bandingkan dengan menggunakan
+metode QP.

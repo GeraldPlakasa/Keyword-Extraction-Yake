@@ -1,0 +1,16 @@
+Stopword Removal merupakan bagian dari tahapan preprocessing teks yang bertujuan untuk menghapus kata yang
+tidak relevan didalam suatu kalimat berdasarkan daftar stopword. Daftar stopword yang biasa digunakan berbentuk
+digital library yang daftarnya sudah tersedia sebelumnya, namun tidak semua kata-kata yang terdapat didalam
+digital library merupakan kata yang tidak relevan dalam suatu data tertentu. Penelitian ini menggunakan daftar
+stopword yang dibentuk dengan algoritme Term Based Random Sampling. Dalam Term Based Random Sampling
+terdapat 3 parameter yaitu Y untuk jumlah perulangan pengambilan kata random, X untuk jumlah pengambilan
+bobot terendah dalam perulangan Y, dan L sebagai persentase jumlah stopword yang ingin digunakan. Sehingga
+penelitian ini ditujukan untuk mencari kombinasi terbaik dari 3 parameter tersebut serta membandingkan stopword
+Term Based Random Sampling dengan stopword Tala dan tanpa proses stopword removal dalam analisis sentimen
+tweet mengenai kuliah daring dengan menggunakan metode Naïve Bayes. Hasil evaluasi dengan stopword Term
+Based Random Sampling mendapatkan akurasi tertinggi dengan X, Y, L sebesar 10, 10, 40 dengan macroaverage
+accuracy sebesar 0,758, macroaverage precision sebesar 0,658, macroaverage recall sebesar 0,636, dan
+macroaverage f-measure sebesar 0,647. Berdasarkan hasil pengujian disimpulkan bahwa semakin besar X, Y, L
+maka semakin tinggi kemungkinannya untuk hasil evaluasi turun. Hasil pengujian membuktikan bahwa Term
+Based Random Sampling berhasil mendapatkan akurasi lebih tinggi dibandingkan dengan stopword Tala maupun
+tanpa menggunakan proses stopword removal.

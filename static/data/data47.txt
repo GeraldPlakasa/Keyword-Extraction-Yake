@@ -1,0 +1,20 @@
+iPosyandu merupakan aplikasi berbasis mobile dan
+web yang dirancang untuk memudahkan melihat aktivitas di
+posyandu dan menyusun laporan aktivitas tersebut. Aplikasi
+ini dibangun sejak 2018 dan terus dikembangkan seiring
+dengan luasnya pengguna IPosyandu yang ditargetkan di se-
+luruh Indonesia. Oleh karena itu diperlukan peningkatan
+kualitas dari aplikasi iPosyandu melalui proses pengujian.
+Penelitian ini menerapkan kakas Katalon Studio untuk men-
+gotomatisasi proses pengujian black box aplikasi iPosyandu.
+Pengujian bertujuan untuk meminimalisir apa yang tidak
+bisa di back up oleh pengujian secara manual dan
+menghindari human error. Test case yang digunakan dalam
+pengujian dengan Katalon Studio menerapkan record dan
+playback. Pengujian otomatis ini dibandingkan dengan man-
+ual dan menunjukkan hasil yang sama, dengan waktu pen-
+gujian yang lebih cepat. Untuk 13 kasus uji yang dicobakan,
+diperoleh peningkatan kecepatan hasil eksekusi menjad
+283,08 detik dibandingkan dengan 719,27detik ketika diuji
+secara manual. Dengan demikian terjadi peningkatan ke-
+cepatan 2,54 kali.

@@ -1,0 +1,13 @@
+Proses pemilihan program studi bagi calon mahasiswa baru, khususnya bagi mereka yang masih duduk di bangku
+SMA atau sederajat, merupakan salah satu momen pengambilan keputusan penting. Tak jarang pilihan yang salah
+berujung pada kegagalan studi atau kesulitan lain selepas menamatkan studi. Meski sudah mulai marak dilakukan
+di berbagai negara maju, sistem rekomendasi program studi berbasis machine learning untuk calon mahasiswa
+baru masih belum banyak dikembangkan di Indonesia. Penelitian ini dilakukan sebagai upaya rintisan sistem
+rekomendasi tersebut dengan menggunakan data pribadi dan akademik dari semua mahasiswa dan alumni program
+sarjana di Universitas Islam Indonesia (UII), di mana data prestasi akademik di masing-masing program studi
+digunakan sebagai ground truth label. Dari hasil penelitian ini, didapatkan sebuah model berbasis Random Forest
+(RF) dengan tingkat akurasi 86%, presisi 84%, recall 86%, dan AUC 97%. Model ini memiliki kinerja yang jauh
+lebih baik jika dibandingkan dengan model berbasis Multinomial Logistic Regression (MLR) maupun Support
+Vector Machine (SVM). Sesuai peta jalan penelitian, model yang dihasilkan dari penelitian ini akan digunakan
+untuk pengembangan sistem rekomendasi yang dapat membantu calon mahasiswa baru dalam memilih program
+studi saat proses penerimaan mahasiswa baru (PMB), khususnya di lingkungan UII.

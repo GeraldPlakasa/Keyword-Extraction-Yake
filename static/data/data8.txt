@@ -1,0 +1,24 @@
+Banyak metode fungsi pelatihan dalam Machine
+Learning Neural Network yang digunakan dalam
+menyelesaikan masalah komputasi yang berkaitan dengan
+prediksi. Fungsi pelatihan yang digunakan pada Machine
+Learning metoda algoritma backpropagation dapat
+menghasilkan prediksi yang berbeda, yang dipengaruhi oleh
+parameter dan data yang digunakan. Tujuan dari penelitian
+dilakukan untuk menganalisa performance dan keakuratan
+algoritma backpropagation standard serta mengoptimalkan
+fungsi pelatihan dengan algoritma Bayesian Regulation, dan
+One Step Secant. Dalam proses analisis, penelitian ini
+menggunakan Dataset jumlah kemiskinan di Indonesia dalam
+jangka waktu 12 tahun (tahun 2009 - 2020) yang terdiri dari
+34 provinsi. Data diperoleh dari website Badan Pusat Statistik
+(BPS) Indonesia https://www.bps.go.id/. Berdasarkan
+pelatihan, pengujian, dan analisa yang dilakukan diperoleh
+hasil dari penelitian, bahwa model jaringan 5-9-1
+menggunakan fungsi pelatihan Bayesian Regulation mampu
+melakukan optimasi yang lebih baik dengan percepatan
+waktu pelatihan, MSE Pengujian, Performance lebih rendah
+dibandingkan denga 2 metode yang lain, dengan demikian
+disimpulkan bahwa model jaringan 5-9-1 menggunakan
+algoritma Bayesian Regulation dapat digunakan untuk
+prediksi kemiskinan di Indonesia.

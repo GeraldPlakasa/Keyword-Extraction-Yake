@@ -1,0 +1,34 @@
+Pemilihan jaksa ideal sebagai Jaksa Penuntut
+Umum (JPU) (studi kasus di Kejaksaan Negeri Kota XYZ)
+sebelumnya dilakukan dengan menganalisis dokumen cetak
+dan dokumen elektronik secara manual. Kondisi ini
+membutuhkan ketelitian, waktu, serta rentan terjadinya
+kesalahan manusia. Kondisi ini memberi peluang untuk
+pengembangan aplikasi untuk mempermudah proses analisis
+dan meningkatkan kualitas keputusan yang diambil. Salah
+satu yang dikembangkan adalah aplikasi Sistem pendukung
+Keputusan menggunakan Analytical Hierarchy Process
+(AHP). SPK Pemilihan JPU memiliki kriteria-kriteria yang
+akan digunakan menyesuaikan tingkat kepentingan perkara
+yang akan ditangani dan peranan jaksa dalam tim JPU.
+Tujuan penelitian ini adalah untuk mengetahui tingkat
+Technology Acceptance Model (TAM) pada Sistem
+Pendukung Keputusan pemilihan jaksa penuntut umum
+berbasis AHP di Kejaksaan Negeri XYZ. Penelitian ini
+merupakan penelitian empiris dengan metoda kuantitatif.
+Jenis data yang digunakan terdiri dari data primer dan data
+sekunder. Pengujian Technology Acceptance Model dengan
+30 responden yang terdiri dari jaksa fungsional dan staf di
+Kejaksaan Negeri Surakarta. Hasil pengujian dianalisis
+lebih lanjut dengan menggunakan regresi linier untuk
+mengetahui korelasi antar variabel. Hasil pengujian
+menunjukkan 93,83% responden setuju bahwa aplikasi SPK
+dapat berguna dan membantu (PU), 86,22% responden
+berpendapat bahwa aplikasi SPK terlihat mudah untuk
+digunakan dan dipelajari (PEOU), 91% responden setuju
+bahwa aplikasi SPK dapat memberi dampak positif (ATU),
+dan 92% responden berniat untuk menggunakan aplikasi
+SPK jika memiliki akses (BI). Hasil analisis regresi linier
+menunjukkan bahwa sikap terhadap penggunaan sistem
+memiliki pengaruh yang besar terhadap keinginan untuk
+menggunakan sistem.

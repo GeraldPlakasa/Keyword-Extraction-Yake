@@ -1,0 +1,20 @@
+Twitter merupakan jejaring sosial dimana tempat
+orang-orang mengutarakan ekspresi dan emosi dirinya dalam
+bentuk tulisan. Mengidentifikasi emosi di Twitter tidak bisa
+menggunakan teknik text processing yang sederhana, karena
+kalimat pada Twitter yang singkat dan tata bahasa yang tidak
+teratur. Tujuan penelitian ini adalah untuk mengetahui
+algoritma yang mempunyai kinerja paling baik dalam
+menentukan klasifikasi emosi tweet pengguna Twitter
+Indonesia. Algoritma yang digunakan pada penelitian ini
+adalah Logistic Regression dan K-Nearest Neighbor. Dan
+juga pada penelitian ini melihat pengaruh TF-IDF dan
+Tuning Hyperparameter pada kedua algoritma. Hasil
+evaluasi menunjukkan bahwa performa model menggunakan
+algoritma logistic regression dengan feature extraction TF-
+IDF dan Tuning Hyperparameter memberikan perfoma
+model paling baik dengan nilai accuracy dan f1-score masing-
+masing sebesar 65% dan 66%. Model tersebut digunakan
+sebagai model prediksi machine learning untuk
+mengklasifikasikan dan mengelompokkan emosi-emosi pada
+aplikasi generik yang dibangun pada penelitian ini.

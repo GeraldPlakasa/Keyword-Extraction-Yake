@@ -1,0 +1,26 @@
+Penyakit jantung adalah salah satu penyakit yang
+menyebabkan resiko kematian cukup tinggi di dunia.
+Kolesterol, diabetes, tekanan darah tinggi merupakan
+faktor-faktor pemicu terjadinya penyakit jantung. Perlu
+deteksi sejak ini mengenai prediksi penyakit jantung pada
+setiap individu agar pencegahan dan pengobatan dapat
+segera dilakukan demi tingkat kesehatan yang lebih baik.
+Berbagai metode dapat dilakukan untuk melakukan deteksi
+penyakit jantung, baik dengan metode tradisional dan
+metode yang memanfaatkan teknologi. Saat ini mulai
+banyak bermunculan system pendeteksi penyakit jantung
+dengan memanfaatkan algoritma machine learning.
+Algoritma machine learning dianggap mudah untuk
+diaplikasikan untuk mengklasifikasikan apakah seseorang
+terkena penyakit jantung. Penelitian ini mencoba
+membandingkan hasil klasifikasi penyakit jantung
+menggunakan dataset public dari UCI menggunakan tiga
+algorima machine learning, yaitu Support Vector Machine
+(SVM), Logistic Regression (LR) dan Artificial Neural
+Network (ANN). Ketiga algorima tersebut diuji
+menggunakan empat skenario pembagian data training dan
+testing yang berbeda, yaitu 90:10, 80:20, 70:40 dan 60:40
+untuk mengetahui hasil terbaik dari tiga algoritma tersebut.
+Dari hasil eksperimen didapatkan hasil akurasi tertinggi
+pada metode Logistic Regression sebesar 86% menggunakan
+skenario pembagian data 80:20.

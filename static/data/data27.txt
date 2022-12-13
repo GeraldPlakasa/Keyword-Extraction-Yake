@@ -1,0 +1,11 @@
+Perkembangan teknologi yang cepat memberi dampak positif atas inovasi-inovasi yang
+berbasis teknologi. Khususnya pada tata kelola administrasi telah berubah dari konvensional
+menjadi sistem. Peran teknologi sangatlah penting pada perubahan ini. Terlihat pada Fakultas
+Matimatika dan IPA Universitas Semarang mengubah tata kelola pelayanan arsip berbasis web.
+Sistem ini menggunakan metode Alphabetical Filling dan metode Chronology System. Dimana
+metode ini berguna untuk memudahkan penemuan data arsip berdasarkan abjad dan tanggal
+upload berkas. Sedangkan pada pengembangan E- Arsip menggunakan metode pemgembangan
+Rapid Application Development (RAD) dimana terdapat 3 proses atau langkah kerja yang
+membuat sistem dapat terselesaikan dalam waktu yang singkat. Pengujian yang dilakukan
+dengan black box memperlihatkan proses procedural pada sistem dapat berjalan dengan baik
+dan sesuai yang diharapkan.

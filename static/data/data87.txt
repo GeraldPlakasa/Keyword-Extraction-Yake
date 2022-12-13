@@ -1,0 +1,20 @@
+Quadrotor merupakan wahana udara nir-awak jenis lepas landas atau pendaratan vertikal berbentuk silang dan
+memiliki sebuah rotor pada setiap ujung lengannya dengan kemampuan manuver yang tinggi. Swarm quadrotor
+yang terdiri dari sekumpulan quadrotor akan menjadi suatu swarm yang baik, sesuai dengan kriteria swarm oleh
+Reynold yaitu dapat menghindari tumbukan, menyamakan kecepatan, dan pemusatan swarm. Pengontrolan swarm
+quadrotor memiliki tingkat kerumitan yang tinggi karena melibatkan banyak agen. Riset pengembangan swarm
+quadrotor masih belum banyak dilakukan dan masih membuka peluang untuk meneliti dengan metoda lain yang
+lebih baik dalam menghasilkan swarm. Makalah ini mengusulkan pengontrolan swarm quadrotor yang terdiri dari
+dua tingkat lup kontrol. Lup pertama adalah pengontrol sistem model swarm untuk membangkitkan lintasan swarm
+dan lup kedua merupakan pengontrol pada quadrotor untuk melakukan penjejakan lintasan swarm. Pengontrol
+pertama menggunakan pengontrol proporsional derivatif (PD), sedangkan pengontrol kedua menggunakan
+regulator linier kuadratik (RLK). Pengontrol yang dirancang memiliki parameter yang banyak, sehingga pemilihan
+parameter yang optimal sangat sulit. Pencarian parameter optimal pada pengontrol model swarm quadrotor
+membutuhkan teknik optimasi seperti algoritma genetik (AG) untuk mengarahkan pencarian menuju solusi yang
+menghasilkan kinerja terbaik. Pada makalah ini, penalaan dengan optimasi AG hanya dilakukan pada pengontrol
+PD untuk menghasilkan lintasan swarm terbaik, sedangkan matrik bobot RLK dilakukan secara uji coba. Hasil
+simulasi swarm pada model quadrotor menunjukkan parameter ka, kb. kv
+, dan kf yang diperoleh menggunakan
+AG menghasilkan pergerakan swarm yang baik dengan kesalahan RMS pelacakan 0,0094 m terhadap fungsi
+obyektif. Sedangkan ketika parameter a, b dan c dicari menggunakan AG, tidak berpengaruh banyak dalam
+memperbaiki hasil simulasi swarm quadrotor.

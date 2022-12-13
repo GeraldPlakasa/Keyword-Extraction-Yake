@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+          <h1>Keypharse Extraction</h1>
+          <h2>Ekstraksi Kata Kunci menggunakan YAKE</h2>
+          <div class="d-flex justify-content-center justify-content-lg-start">
+            <a href="demo" class="btn-get-started scrollto">Start Demo!</a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
+          <img src="static/img/Hand coding-pana.png" class="img-fluid animated" width="80%" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Yake Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2>YAKE</h2>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+              Yake (Yet Another Keyword Extraction) adalah metode Unsupervised Term Extraction yang tidak bergantung pada bahasa. 
+              Yake memiliki beberapa komponen utama dalam prosesnya yaitu,
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Text Pre-processing</li>
+              <li><i class="ri-check-double-line"></i> Feature Extraction</li>
+              <li><i class="ri-check-double-line"></i> Individual Term Weighting</li>
+              <li><i class="ri-check-double-line"></i> Candidate Keyword List Generation</li>
+            </ul>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Berikut ini untuk melihat hasil evaluasi pada 100 Jurnal Menggunakan Similarity
+            </p>
+            <a href="evaluasi" class="btn-learn-more">Evaluasi</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Yake Section -->
+
+  </main><!-- End #main -->
+
+{% endblock %}

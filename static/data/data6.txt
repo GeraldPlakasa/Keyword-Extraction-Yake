@@ -1,0 +1,14 @@
+Estimasi biaya memiliki peran yang penting pada berjalannya proyek dan menjadi penentu keberhasilan suatu
+proyek perangkat lunak. Kegagalan estimasi biaya dalam perencanaan proyek perangkat lunak dapat menyebabkan
+proyek tidak berjalan dengan baik dan menimbulkan kerugian bagi perusahaan. Oleh karena itu, banyak peneliti
+sampai saat ini masih mencari dan melakukan penelitian untuk mendapatkan estimasi terbaik dengan
+memperhatikan faktor-faktor estimasi biaya. Tujuan penelitian ini adalah membuat Systematic Literature Review
+(SLR) yang berisi rangkuman dan analisis perkembangan penelitian terbaru tentang estimasi biaya pada perangkat
+lunak, khususnya pada metode yang digunakan serta faktor-faktor yang mempengaruhi. Penelitian ini berhasil
+mengkaji 21 penelitian dalam lima tahun terakhir (2015-2020) dan didapatkan 24 metode usulan yang terbagi
+menjadi tiga jenis metode yang sering digunakan dalam melakukan estimasi biaya perangkat lunak yaitu
+nonparametrik, parametrik dan semiparametrik. Selain itu, penelitian ini juga berhasil menemukan metode dan
+kombinasi metode terbaik berdasarkan ketepatan akurasi yaitu COCOMO II dan kombinasi Genetic Algorithm
+dengan Artificial Bee Colony, serta didapatkan lima faktor utama yang mempengaruhi estimasi biaya sehingga
+bisa berguna bagi para peneliti atau praktisi lain untuk mengembangkan estimasi biaya pada proyek perangkat
+lunak.

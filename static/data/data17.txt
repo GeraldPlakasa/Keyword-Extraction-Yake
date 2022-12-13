@@ -1,0 +1,32 @@
+Informasi merupakan kebutuhan yang penting
+bagi manusia. Dokumen teks adalah salah satu media untuk
+menyampaikan informasi. Informasi bersifat penting
+sehingga dibutuhkan keamanan tingkat tinggi. Pada
+dokumen digital dilakukan usaha untuk kompresi data
+untuk bertujuan mempercepat pengiriman data maupun
+memperkecil ruang penyimpanan data. Maka dari itu,
+dibuatlah aplikasi pengaman dokumen digital menggunakan
+algoritma kriptografi asimetri dan simetri serta algoritma
+kompresi Huffman. Algoritma kriptografi simetri yang
+digunakan adalah algoritma Vernam cipher yang kunci
+enkripsi dan dekripsi adalah sama. Algoritma kriptografi
+asimetri yang digunakan adalah algoritma RSA yang dapat
+menutupi kelemahan dari algoritma simetri, karena
+memiliki kunci yang masing-masing berbeda baik untuk
+enkripsi maupun dekripsi. Disamping itu, untuk kompresi
+data digunakan algoritma kompresi Huffman yang bersifat
+lossless untuk mengatasi masalah ukuran dokumen digital.
+Kombinasi antara algoritma kriptografi dengan algoritma
+kompresi menghasilkan dokumen yang tidak dapat dibaca
+oleh pihak yang tidak berhak serta menghasilkan dokumen
+dengan ukuran yang kecil sehingga ruang penyimpanan dan
+waktu pengiriman lebih efisien. Berdasarkan hasil
+pengujian, lama proses enkripsi maupun dekripsi
+dipengaruhi oleh ukuran data dokumen. Setiap dokumen
+yang dienkripsi mengalami penambahan ukuran data
+seperti dapat dilihat pada salah satu contoh kasus dimana
+ukuran awal dokumen 4.657 byte menjadi 7.500 byte ketika
+setelah dienkripsi. Pada algoritma kompresi Huffman,
+terjadi pengurangan ukuran seperti pada contoh kasus
+dokumen yang memiliki ukuran awal 4.080 byte setelah
+dikompres ukurannya menjadi 2.629 byte.

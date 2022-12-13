@@ -1,0 +1,13 @@
+E-Learning Vilep merupakan sistem pendukung dalam proses belajar mengajar yang ada di
+Poltekkes Kemenkes Palembang. Tujuan penelitian adalah mengetahui tingkat kepuasan pengguna
+dalam menggunakan e-learning Vilep di Poltekkes Kemenkes Palembang dengan menggunakan model
+kepuasan End User Computing Satisfaction (EUCS) yang terdiri dari lima faktor, yaitu: isi
+(content), ketepatan (accuracy), bentuk (format), kemudahan menggunakan (ease of use), dan
+ketepatan waktu (timeliness). Proses pengumpulan data dilakukan dengan melakukan wawancara,
+observasi, dan penyebaran kuesioner kepada pengguna e-learning Vilep. Teknik pengambilan
+sampel menggunakan sample random menggunakan rumus Slovin dengan jumlah sampel 352
+responden. Pengolahan data menggunakan SPSS, AMOS, dan Excel. Hasil dari penelitian
+menunjukkan tingkat kepuasan pengguna e-learning Vilep secara simultan menunjukkan semua
+variable terpenuhi, dan dilihat dari analisis korelasi diperoleh R2 sebesar 0,854 menunjukkan bahwa
+variabel satisfaction dapat dijelaskan oleh variabel content, accuracy, format, ease of use dan
+timeliness sebesar 85,4%.

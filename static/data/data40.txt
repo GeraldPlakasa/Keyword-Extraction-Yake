@@ -1,0 +1,16 @@
+Sistem reservasi merupakan sistem untuk mengetahui informasi pelayanan jasa
+tertentu. Sistem reservasi service gadget ini bertujuan untuk memudahkan konsumen dalam
+melakukan pendaftaran atau reservasi karena dilakukan secara online, sehingga para
+konsumen tidak perlu menunggu untuk mengikuti antrian yang panjang saat reservasi manual.
+Oleh karena itu aplikasi ini dibuat dan diperlukan sebagai solusi dari masalah seperti antrian
+panjang saat reservasi secara komputasi berbasis website. Penerapan metode yang dilakukan
+dalam pembuatan sistem aplikasi service gadget ini, yaitu metode Antrian First In First Out
+yang menerapkan Single Channel-Single Phase. Pada aplikasi ini Konsumen melakukan
+reservasi antrian service pada halaman reservasi order service, setelah data terkirim
+selanjutnya akan diproses oleh sistem untuk di verifikasi. Setelah itu sistem akan menampilkan
+halaman bukti reservasi untuk dicetak oleh konsumen sebagai bukti sudah melakukan reservasi.
+Pengujian yang dilakukan melakukan perbandingan pada web browser seperti Microsoft Edge
+membutuhkan waktu 53 detik untuk melakukan reservasi dengan menjalankan aplikasi reservasi
+service gadget, sedangkan pengujian pada Mozilla Firefox 54 detik dan Google Chrome 58
+detik. Selain itu dalam penggunaan memori (RAM) Microsoft Edge memakai 168,4KB,
+sedangkan pengujian pada Mozilla Firefox 212,6KB dan Google Chrome 274,0KB.

@@ -1,0 +1,28 @@
+Bengkel kendaraan sebagai usaha layanan jasa
+yang banyak ditekuni oleh masyarakat kecil sebagai mata
+pencaharian utama. Saat perkembangan teknologi informasi
+yang sangat pesat, masih banyak usaha bengkel kendaraan
+bermotor yang menerapkan tata Kelola secara konvensional.
+Tata kelola secara konvensional berisiko sangat rawan terjadi
+kehilangan dan kerusakan data yang menyebabkan kerugian
+pada perusahaan. Penelitian ini berfokus pada
+pengembangan Sistem E-Bengkel terintegrasi berbasis web
+untuk memperbaiki tata kelola manual pada Bagian Front
+Office dan Bagian Layanan bengkel konvensional. Bagian
+Front Office pada bengkel merupakan bagian yang
+menangani proses pendaftaran pelanggan, penjualan spare
+part, dan check-in service. Bagian layanan pada bengkel
+merupakan bagian yang menangani proses penerimaan
+service dan pencatatan pengerjaan service kendaraan. Hasil
+dari sistem informasi manajemen ini yaitu berupa aplikasi
+berbasis web yang sesuai dengan proses bisnis Front Office
+dan layanan suatu bengkel kendaraan. Sistem ini
+menerapkan model Single Sign-On (SSO) sebagai model
+manajemen satu gerbang masuk untuk semua modul,
+manajemen session, serta manajemen semua hak akses
+pengguna. Model Multi-Channel Access (MCA) dipergunakan
+untuk memperkaya dan mempermudah akses informasi ke
+pemilik, pelanggan dan pegawai. Implementasi sistem
+berbasis komputer dengan Model SSO dan MCA diharapkan
+mampu meningkatkan pelayanan dan peluang bisnis dari
+Usaha Kecil Bengkel.

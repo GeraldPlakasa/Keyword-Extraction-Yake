@@ -1,0 +1,17 @@
+Protokol MQTT pada umumnya menggunakan username dan password untuk memvalidasi klien yang terhubung
+ke broker. Salah satu cara yang biasa dilakukan untuk melakukan hal ini adalah dengan membuat dedicated server
+yang berfungsi untuk memvalidasi klien yang terhubung pada broker. Akan tetapi hal ini membuat proses validasi
+klien bergantung pada entitas yang umumnya dibuat terpusat (centralized). Sistem yang terpusat rentan mengalami
+kegagalan yang dapat menyebabkan sistem kehilangan data dan ketersediaan yang rendah ketika ingin digunakan.
+Oleh karena itu, peneliti mengusulkan penggunaan Ethereum blockchain sebagai pengganti dari authentication
+server. Blockchain merupakan teknologi penyimpanan data terdistribusi secara peer to peer yang dapat mencegah
+perubahan data tanpa izin. Selain itu platform Ethereum blockchain mempunyai teknologi smart contract, dengan
+teknologi ini pengguna dapat mengunggah program kecil pada blockchain. Pada penelitian ini, smart contract akan
+dijadikan pengganti dari authentication server yang biasanya digunakan pada broker MQTT. Penulis berharap
+terciptanya authentication server yang terdistribusi guna membantu broker MQTT dalam memvalidasi klien
+setelah menerapkan teknologi blockchain dan smart contract pada MQTT authentication server. Hasil dari
+pengujian fungsional yang didapat bahwa implementasi MQTT authentication server pada platform blockchain
+sudah dapat berjalan sesuai dengan fungsinya dalam melakukan authentication dan authorization pada klien. Hasil
+dari pengujian non fungsional menunjukkan bahwa distribusi data sudah dapat dijaga konsistensi nya pada tiap–
+tiap node. Berdasarkan hasil penelitian tersebut dapat disimpulkan bahwa sistem yang dibuat dapat dijadikan
+sebagai solusi permasalahan MQTT authentication server yang terpusat.

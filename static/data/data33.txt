@@ -1,0 +1,30 @@
+Penelitian ini berkaitan dengan proses klasifikasi
+Pneumonia Covid-19 (radang paru-paru atau pneumonia yang
+disebabkan oleh virus corona SARS-CoV-2) dari citra hasil
+foto rontgen / x-ray paru-paru dengan menggunakan
+pendekatan pembelajaran mesin. Klasifikasi dilakukan untuk
+menentukan apakah kondisi paru-paru seseorang mengalami
+Pneumonia Covid-19, Pneumonia biasa, atau Normal / Sehat.
+Untuk menghasilkan kinerja klasifikasi yang lebih baik,
+proses optimasi seringkali digunakan pada tahap pelatihan
+data. Banyak teknik yang digunakan untuk melakukan
+optimasi tersebut, diantaranya adalah algoritma Root-Mean-
+Square Propagation (RMSprop) dan Stochastic Gradient
+Descent (SGD). Pada penelitian ini, pengujian dilakukan
+terhadap kedua metode tersebut untuk mengetahui
+kinerjanya pada klasifikasi Pneumonia Covid-19. Metode
+klasifikasi menggunakan Convolutional Neural Network
+(CNN) yang menerapkan 5 layer konvolusi dengan nilai filter
+16, 32, 64, 128, dan 256. Proses pelatihan menggunakan 3.900
+citra yang terdiri atas 1.300 citra pneumonia covid-19, 1.300
+citra pneumonia, dan 1.300 citra normal. Sedangkan proses
+validasi menggunakan 450 citra dan proses pengujian
+mengunakan 225 citra. Berdasarkan uji coba yang telah
+dilakukan, implementasi algoritma optimasi RMSprop
+menghasilkan akurasi 87,99%, presisi 0,88, recall 0,86, dan f1
+score 0,87. Sedangkan implementasi algoritma optimasi SGD
+menghasilkan akurasi 66,22%, presisi 0,69, recall 0,64, dan f1
+score 0,67. Hasil ini memberikan informasi penting bahwa
+algoritma optimasi RMSprop menghasilkan kinerja yang
+jauh lebih baik daripada SGD pada klasifikasi Pneumonia
+Covid-19.

@@ -1,0 +1,28 @@
+Tujuan penelitian adalah merancang sebuah sistem
+informasi untuk pengelolaan audit mutu internal (AMI) yang
+menjadi bagian dari siklus Sistem Penjaminan Mutu Internal
+(SPMI) Pendidikan Tinggi (Dikti), yaitu evaluasi pelaksanaan
+standar Dikti. AMI berperan dalam proses pemeriksaan
+pemenuhan Standar Dikti pada tahap pelaksanaan standar.
+Banyaknya proses dalam sistem AMI mulai dari mulai desk-
+evaluation, visitasi, permintaan tindakan koreksi, dan
+dokumentasi. Ditambah lagi kegiatan AMI yang idealnya
+dilaksanakan setiap tahun untuk setiap program studi, dan
+jumlah auditor yang terbatas menuntut dibangunnya sebuah
+sistem informasi agar proses monitoring dan pengambilan
+keputusan dapat dilakukan dengan mudah, sehingga
+pengelolaan dapat berjalan efisien dan berkelanjutan. Sistem
+informasi diperlukan, sistem ini dikembangkan dengan
+pendekatan System Development Life Cycle (SDLC), dimana
+dalam proses pengembangannya terdapat empat tahapan besar
+yaitu perencanaan, analisis, perancangan, dan implementasi.
+Sistem AMI yang dirancang untuk dapat digunakan secara
+umum pada proses AMI di perguruan tinggi, terutama di
+Universitas Tanjungpura (Untan). Beberapa kendala yang
+dihadapi sebelum menggunakan sistem informasi, misalnya
+sulitnya mengetahui dengan cepat informasi terkait perbaikan
+mutu untuk setiap program studi secara periodik. Penelitian ini
+menghasilkan sebuah rancangan sistem informasi yang
+mengelola kebutuhan AMI secara terintegrasi mulai dari proses
+penjadwalan, self-assessment (desk-evaluation) oleh program
+studi, visitasi, tindakan koreksi, dan pelaporan.

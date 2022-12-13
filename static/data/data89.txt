@@ -1,0 +1,23 @@
+Deteksi penggunaan masker pada pengemudi
+kendaraan termasuk tugas klasifikasi yang dapat
+diselesaikan secara otomatis oleh kecerdasaan artifisial.
+Untuk implementasi pada perangkat mobile, arsitektur
+neural network MobileNetV2 dipilih dengan pertimbangan
+akurasi yang baik. Penambahan teknik data augmentation
+dan pemilihan optimizer ADAM semakin meningkatkan
+akurasi klasifikasi dari MobileNetV2. Proses deteksi
+dilakukan pada 13 foto pengemudi dengan masker dan 13
+pengemudi tanpa masker. Untuk pengemudi tanpa masker,
+sistem pendeteksi berhasil 100%, meskipun ada salah satu
+kondisi saat pengemudi memakai masker di dagu, tingkat
+akurasi hanya sebesar 65,59%. Sedangkan untuk pengemudi
+tanpa masker, ada 1 foto yang salah, disebabkan oleh warna
+gelap yang digunakan sebagai masker, sehingga sistem
+pendeteksi mengklasifikasikan sebagai pengemudi tanpa
+masker dengan tingkat akurasi hingga 97,76%. Hasil analisis
+lebih dalam menunjukkan bahwa aksesoris seperti jilbab
+dan kacamata mempengaruhi tingkat akurasi yang
+dihasilkan oleh sistem pendeteksi. Sementara itu, tingkat
+akurasi juga lebih dipengaruhi oleh warna dari masker yang
+dipakai ketimbang pemilihan masker medis ataupun masker
+kain.

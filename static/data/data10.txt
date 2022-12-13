@@ -1,0 +1,21 @@
+Di Indonesia, penerapan mesin penerjemah masih
+banyak dilakukan dengan berbasis statistik khususnya dalam
+eksperimen penerjemahan bahasa daerah. Dalam beberapa
+tahun terakhir, mesin penerjemah jaringan saraf tiruan telah
+mencapai kesuksesan yang luar biasa dan menjadi metode
+pilihan baru dalam praktik mesin penerjemah. pada
+penelitian ini menggunakan mekanisme attention dari
+Bahdanau dan Luong dalam bahasa Indonesia ke bahasa
+Melayu Ketapang dengan data korpus paralel sejumlah 5000
+baris kalimat. Hasil pengujian berdasarkan metode
+penambahan secara konsisten dengan jumlah epoch
+didapatkan nilai skor BLEU yaitu pada attention Bahdanau
+menghasilkan akurasi 35,96% tanpa out-of-vocabulary
+(OOV) dengan menggunakan jumlah epoch 40, sedangkan
+pada attention Luong menghasilkan akurasi 26,19% tanpa
+OOV menggunakan jumlah 30 epoch. Hasil pengujian
+berdasarkan k-fold cross validation didapatkan nilai rata-rata
+akurasi tertinggi sebesar 40,25% tanpa OOV untuk attention
+Bahdanau dan 30,38% tanpa OOV untuk attention Luong,
+sedangkan pengujian manual oleh dua orang ahli bahasa
+memperoleh nilai akurasi sebesar 78,17% dan 72,53%.

@@ -1,0 +1,34 @@
+Pendidikan Sekolah Dasar (SD) sangat penting
+dalam memberikan keterampilan dasar yang dibutuhkan
+siswa untuk bertahan dalam mengikuti dan memahami kelas-
+kelas pada jenjang di atasnya sehingga jika pondasi
+pendidikan SD kuat maka dapat meningkatkan kualitas
+pendidikan di Indonesia. Tujuan dari penelitian adalah
+membuat model arsitektur terbaik yang akan digunakan
+untuk melakukan peramalan pada jumlah siswa mengulang
+berdasarkan provinsi pada jenjnag Sekolah Dasar baik negeri
+dan swasta dengan model berbasis sistem kecerdasan buatan.
+Sumber data berasal dari data statistik pendidikan dengan
+url: http://statistik.data.kemdikbud.go.id/. Data terdiri dari
+34 provinsi untuk tahun ajaran 2017/2017; 2017/2018;
+2018/2019; 2019/2020. Metode solusi yang digunakan adalah
+back-propagation yang merupakan bagian dari sistem
+kecerdasan buatan dimana dalam menentukan model
+arsitektur terbaik dilakukan dengan menguji serangkaian
+arsitektur (2-5-1; 2-10-1; 2-15-1 dan 2-20-1) mengunakan
+fungsi aktivasi sigmoid dan parameter pendukung seperti
+performFcn = MSE; goal = 0.001; epochs = 10000; mc = 0.95
+dan lr = 0.1. Hasil menunjukkan back-propagation dapat
+diterapkan untuk melakukan peramalan dengan sistem
+kecerdasan buatan dengan menghasilkan sebuah model
+arsitektur terbaik yakni 2-10-1 dengan MSE pelatihan adalah
+0.00099299, koefisien korelasi (R) pelatihan adalah 0.976972
+pada epoch 81, MSE pengujian adalah 0.001325, koefisien
+korelasi (R) pengujian dengan akurasi 85%. Fakta baru
+menyebutkan bahwa akurasi sangat tergantung terhadap
+banyaknya data. Selain harus memperhatikan MSE, epoch
+dan durasi waktu pelatihan. Diharapkan model arsitektur ini
+dapat membantu melakukan peramalan terhadap jumlah
+siswa mengulang pada jenjang Sekolah Dasar sehingga hasil
+dari peramalan dapat digunakan untuk membuat analisis
+kebijakan.

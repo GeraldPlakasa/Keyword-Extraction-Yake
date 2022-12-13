@@ -1,0 +1,26 @@
+Salah satu bagian yang begitu penting dalam
+menanggulangi Covid-19 adalah Alat pelindung diri (APD).
+Setiap tenaga kesehatan yang berhadapan dengan pasien
+Covid-19 harus menggunakan APD dan setiap fasilitas
+kesehatan yang ada di kota Padang harus memiliki stok APD
+agar selalu ada saat dibutuhkan. Namun kondisi APD di
+setiap fasilitas kesehatan yang terdapat di kota Padang tidak
+di rekap secara komputerisasi, petugas harus memeriksa
+ketersedian APD di gudang setiap saat. Tujuannya penelitian
+ini adalah agar setiap fasilitas kesehatan yang ada di kota
+Padang mengetahui ketersediaan APD setiap saat melalui
+sistem informasi yang berbasis web tanpa harus memeriksa
+di gudang agar tidak ada lagi kematian dari tenaga kesehatan
+akibat menangani pasien yang positif Covid-19 tanpa
+menggunakan APD. Dalam perancangan sistem digunakan
+metode waterfall. Sedangkan dalam evaluasi sistem yang telah
+diimplementasikan memanfaatkan metode PIECES
+(Performance, Information/Data, Economic, Control/Security,
+Efficiency, Service). Berdasarkan hasil dari setiap tahapan
+metode waterfall yaitu tahapan analisis, perancangan,
+pengkodean, dan implementasi, maka dapat ditarik sebuah
+kesimpulan bahwa perancangan aplikasi sistem informasi
+inventari APD di DKK Padang telah berhasil dibangun sesuai
+dengan kebutuhan. Evaluasi yang dilakukan terhadap sistem
+yang telah dirancang dan diimplentasikan menunjukkan
+bahwa nilai mean adalah sebesar 3,66 dengan kategori baik.

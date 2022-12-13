@@ -1,0 +1,30 @@
+Penelitian ini bertujuan untuk merancang dan
+membangun dashboard dan clustering data layanan
+perizinan publik Dinas Penanaman Modal dan Pelayanan
+Terpadu Satu Pintu (DPMPTSP) Kabupaten Dharmasraya,
+untuk memudahkan proses analisis data dan pengambilan
+keputusan oleh pihak manajemen dengan memanfaatkan
+Business Intelligence. Karena selama ini proses analisis data
+masih dilakukan secara konvensional yaitu dengan
+mengambil data dari Aplikasi kemudian dikonversikan ke
+Microsoft Excel terlebih dahulu, baru dilakukan analisis.
+Proses seperti ini akan memakan waktu yang lama dan hasil
+analisis yang tidak akurat. Dalam melakukan Layanan
+Perizinan untuk Publik, Dinas DPMPTSP selama ini sudah
+menggunakan Aplikasi SiCantik, yaitu aplikasi berbasis web
+yang terintegrasi untuk pengelolaan perizinan usaha maupun
+layanan umum lainnya yang bersifat Online Single
+Submission (OSS). Namun, aplikasi ini hanya sebatas
+melakukan pengelolaan data, belum terdapat visualisasi
+dashboard untuk memudahkan proses analisis. Sebelum
+melakukan perancangan dashboard dan proses clustering
+data, terlebih dahulu dilakukan pengolahan data dari
+Database Aplikasi dalam bentuk Extract-Transform-Load
+(ETL) menggunakan tool perangkat lunak Pentaho Data
+Integration (PDI), sedangkan untuk merancang dashboard
+dan proses clustering menggunakan perangkat lunak
+Mirosoft Power BI. Hasil dari penelitian ini adalah bentuk
+visualisasi dashboard yang interaktif dan mudah dipahami,
+serta pengelompokkan data dalam bentuk grafik clusterisasi
+yang dapat mempermudah pihak manajemen dalam
+pengambilan keputusan.

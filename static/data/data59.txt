@@ -1,0 +1,11 @@
+Penerjemahan bahasa secara alami sangat membantu dalam memahami setiap kata
+maupun kalimat berdasarkan arti yang dimaksud. Ragam bahasa yang tidak mudah untuk
+dimengerti, menimbulkan kesulitan komunikasi. Natural Language Processing (NLP) menjadi
+pilihan untuk menterjemahkan bahasa manusia dengan komputer secara alami. Sebagai salah
+satu metode parsing, Left Corner Parsing menguraikan bahasa mulai dari constituent terbesar
+hingga terkecil, yakni kata. Penguraian tersebut diikuti dengan merepresentasikan arti atau
+dikenal dengan interpretasi kontekstual. Studi ini dilakukan untuk menguraikan bahasa
+Mandailing menggunakan Left Corner Parsing yang dilengkapi dengan analisis menentukan
+maksud dari penggunaan kalimat tersebut. Terdapat 30 kalimat yang diujikan menggunakan
+Left Corner Parsing. Hasil pengujian memperlihatkan bahwa kesesuaian penguraian struktur
+kalimat dan ketepatan analisis kontekstual terhadap hasil terjemahan mencapai 93,4%.

@@ -1,0 +1,1 @@
+Pneumonia Covid-19, Optimasi, RMSprop, SGD, CNN, Kinerja Klasifikasi

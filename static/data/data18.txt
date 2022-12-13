@@ -1,0 +1,33 @@
+Pemanfaatan teknologi Data mining kini telah
+banyak diterapkan di perusahaan besar di berbagai aspek.
+Namun sayangnya, masih banyak usaha-usaha di Indonesia
+yang belum memanfaatkan teknologi data mining dalam
+meningkatkan rencana strategis usaha kedepan, data-data
+yang masuk ke perusahaan hanya menjadi data history,
+masuk ke arsip perusahaan dan akhirnya dibiarkan
+tersimpan. Perusahaan dituntut memberikan layanan yang
+mudah dan cepat kepada customer serta menentukan
+strategi bisnis kedepannya, khususnya pada Restoran Bahari
+Bangka Belitung dalam melayani wisatawan mendapatkan
+fakta bahwa wisatawan sangat sulit menentukan produk
+yang ingin dipesan dan meminta rekomendasi kepada
+pelayan. Berdasarkan masalah yang dihadapi ini dapat
+diselesaikan dengan memanfaatkan data transaksi yang
+diolah dalam memberikan rekomendasi produk atau menu
+unggulan yang terkait untuk kepentingan pemasaran. Data
+mining melakukan penggalian data yang sudah tersimpan
+dalam jangka waktu tertentu untuk dijadikan refrensi
+didalam memberikan rekomendasi. Algoritma dalam
+penelitian ini adalah algoritma apriori berbasis website dan
+android dengan menggunakan metode prototype. Hasil dari
+penelitian ini yaitu rekomendasi apriori terhadap produk
+dalam bentuk aturan asosiatif atau pola transaksi customer
+dengan cara mengumpulkan data transaksi lalu dengan
+eksperimen dataset sejumlah 274 transaksi dihitung
+menggunakan algoritma Apriori dengan nilai support
+minimal 50 dan nilai confidence minimal 75%. Pengujian
+User Acceptance Testing dari 6 variabel dengan detail 10
+pertanyaan mengenai effort expectancy, social influence,
+performance expectancy, use behavior, supporting facilitating
+dan behavioral intention menghasilkan indeks rata-rata
+sebesar 90.4%.

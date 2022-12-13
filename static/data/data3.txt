@@ -1,0 +1,23 @@
+Belum adanya sistem pengelolaan data produksi
+perikanan tangkap di Kabupaten Aceh Utara menyebabkan
+pemerintah Kabupaten Aceh Utara kesulitan dalam
+mengklasterisasi data produksi perikanan tangkap.
+Penelitian ini bertujuan untuk menerapkan algoritma k-
+medoids dalam sistem klasterisasi data produksi perikanan
+tangkap berbasis web menjadi tiga klaster. Penelitian ini
+menggunakan data produksi perikanan tangkap di
+Kabupaten Aceh Utara tahun 2019-2020 yang diperoleh dari
+Dinas Kelautan dan Perikanan Kabupaten Aceh Utara. Hasil
+penelitian dengan 10 kali pengujian menunjukkan bahwa
+nilai rata-rata iterasi k-medoids sebesar 2,5 dengan jumlah
+iterasi terbanyak 4 iterasi dan iterasi terkecil senilai 2 iterasi.
+Hasil cluster data produksi perikanan tangkap dengan jenis
+tangkapan ikan Albakora masuk kedalam potensi produksi
+tangkapan klaster sedang. Jenis tangkapan ikan Alu-alu,
+Tongkol Krai, Tuna Mata Besar, Tuna Sirip Biru Selatan
+masuk kedalam cluster rendah. Jenis tangkapan ikan Banyar,
+Bawal Hitam dan Bawal Putih masuk kedalam klaster tinggi.
+Adapun hasil klaster yang terbentuk dapat membantu
+pemerintah Kabupaten Aceh Utara dalam mengambil
+kebijakan untuk menambah nilai produksi tangkapan ikan di
+Kabupaten Aceh Utara.

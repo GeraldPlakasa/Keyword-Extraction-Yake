@@ -1,0 +1,11 @@
+BKDIKLATDA (Badan Kepegawain Diklat Daerah) kota Salatiga merupakan salah
+satu organisasi non profit yang bergerak di bidang kepegawaian, penunjang pendidikan dan
+urusan pelatihan pemerintahan. Adanya teknologi sistem informasi beserta pengembangan
+SI/TI sangat berpengaruh terhadap kesuksesan visi dan misi pada organisasi serta membantu
+proses bisnis di dalam organisasi sehingga sangat dibutuhkan perencanaan yang baik dan
+terstruktur. Untuk pengumpulan data dan informasi menggunakan metode ward and peppart
+dengan tools analisis SWOT, value chain, dan aplikasi portofolio dengan memakai pendekatan
+McFarlan Strategic Grid serta usulan sistem informasi. Pada penelitian ini menghasilkan
+usulan perencanaan strategi SI/TI berupa usulan web aplikasi pada BKDIKLATDA kota
+Salatiga. Dimana aplikasi ini nantinya dapat meningkatkan kinerja lebih efektif dan efisien.
+Serta dapat mempermudah proses kerja di dalam BKDIKLATDA kota Salatiga.

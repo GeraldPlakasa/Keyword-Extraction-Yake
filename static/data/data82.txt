@@ -1,0 +1,33 @@
+Magang adalah proses penerapan bidang
+keilmuan dan keterampilan yang diperoleh di kampus pada
+dunia industry. Dalam pelaksanaannya, saat mahasiswa
+selesai melaksanakan magang ada beberapa mengeluhkan
+bahwa perusahaan tempat magang tidak sesuai dengan
+standar yang diinginkan, tidak sesuai bidang serta beban
+kerja yang berlebih sehingga dalam pelaksanaanya
+mahasiswa merasa tidak bisa optimal dalam menggunakan
+kemampuan yang dimiliki. Hal ini dikarenakan adanya
+subjektifitas dalam penentuan tempat magang, mahasiswa
+memilih sendiri tempat magang tersebut yang terkadang
+belum mengetahui job desk yang akan dikerjakan. Selain itu
+koordinator magang jurusan merekomendasikan tempat
+magang berdasarkan penilaian pembimbing magang saat
+visitasi padahal tidak mengetahui keadaan sebenarnya yang
+telah terlaksana. Sehingga dalam hal ini dibutuhkan adanya
+sebuah sistem yang mampu membantu dalam pengambilan
+keputusan rekomendasi tempat magang. Penelitian ini dibuat
+dengan menerapkan metode pengembangan system Rapid
+Development Prototyping (RAD) dan penilaian rekomendasi
+diperoleh menggunakan metode MAUT (Multi Attribute
+Utility Theory). Metode MAUT akan mengolah penilaian dari
+masing kriteria (jam kerja, bobot tugas yang diberikan
+selama magang, kesesuaian tugas dengan keahlian, standar
+perusahaan, penerapan K3 di perusahaan, fasilitas dan
+peralatan praktik untuk peserta magang serta bidang
+keahlian)sesuai dengan bobot yang ditentukan dengan tujuan
+memberikan penilaian dari sisi mahasiswa yang telah selesai
+pelaksanaan magang terhadap industri bersangkutan.
+Pengujian pada aplikasi SIPGANG penentuan rekomendasi
+industry menggunakan uji kuisioner dengan Sistem Usability
+Scale (SUS) dan didapatkan hasil akhir 72 yang menyatakan
+bahwa system dalam kategori layak untuk digunakan.

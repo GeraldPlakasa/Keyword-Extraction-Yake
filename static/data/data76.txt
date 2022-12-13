@@ -1,0 +1,22 @@
+Penjualan diperlukan suatu pengawasan atau monitoring untuk mengetahui keberhasilan yang dicapai dari tujuan
+dari organisasi atau instansi. Perusahaan dagang yang memiliki berbagai cabang, maka pimpinan harus
+memperoleh informasi dan laporan dari cabang-cabang tersebut. Memonitoring atau mengawasi perkembangan
+penjualan perlu dilakukan pimpinan supaya dapat mengevaluasi tingkat penjualan pada semua cabang dari suatu
+perusahaan. Toko ABC salah satu toko yang memiliki beberapa cabang, proses input transaksi penjualan yang
+saat ini dilakukan adalah dengan mencatat ke dalam buku laporan penjualan. Selanjutnya buku tersebut, difoto dan
+dikirim ke grup Whatsapps yang di dalamnya beranggotakan admin cabang, admin pusat dan pimpinan.
+Monitoring atau mengawasi perkembangan penjualan perlu dilakukan oleh pimpinan supaya dapat mengevaluasi
+tingkat penjualan pada semua cabang dari suatu perusahaan. Jauhnya lokasi kantor cabang dengan kantor pusat
+menyebabkan sulitnya pimpinan perusahaan untuk melakukan monitoring penjualan secara langsung di cabang.
+Model Sistem Informasi Monitoring Penjualan, yang diharapkan hasil prototipe ini dapat diimplementasikan pada
+perusahaan dagang terutama para pelaku usaha menengah yang memiliki kantor cabang. Hasil monitoring tersebut
+pimpinan dapat mengevaluasi penjualan di setiap cabang-cabang. Penelitian ini akan mengembangkan suatu
+sistem informasi monitoring penjualan dengan cara mengintegrasikan sistem informasi penjualan yang ada pada
+toko cabang dengan sistem yang ada pada toko pusat. Metode pengembangan sistem yang digunakan dalam
+penelitian ini adalah prototype, model perancangannya menggunakan flowchart dan Data Flow Diagram.
+Penelitian ini mengguanakan PHP sebagai bahasa koding program dan Mysql sebagai pengolah basis datanya.
+Pengujian sistem ini menggunakan pengujian black box. Hasil dari perancangan aplikasi Sistem informasi
+monitoring penjualan berbasis Web dengan mengintegrasikan sistem penjalan pada toko cabang sehingga
+pimpinan dan admin toko pusat dapat mengawasi proses transaksi penjualan, laporan transaksi dan laporan stok di
+seluruh cabang. Pimpinan juga dapat menjadikan seluruh laporan tersebut sebagai bahan pertimbangan dalam
+pengambilan keputusan.

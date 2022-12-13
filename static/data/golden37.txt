@@ -1,0 +1,1 @@
+Artificial Neural Network, Penyakit jantung, Logistic Regression, Support Vector Machine

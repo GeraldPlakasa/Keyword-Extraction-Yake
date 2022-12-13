@@ -1,0 +1,100 @@
+AKSI PENYERANGAN NON-PLAYER CHARACTER (NPC) MENGGUNAKAN METODE NAÏVE BAYES PADA SHOOTER GAME
+ANALISA DAN PERANCANGAN SISTEM INFORMASI MANAJEMEN VALIDASI DATA PEMBANGUNAN FIBER OPTIK
+Analisa Performa RStudio Server Berbasis Cloud Menggunakan Elastic Stack sebagai Sistem Manajemen Metrik
+Analisis Algoritma K-Medoids pada Sistem Klasterisasi Produksi Perikanan Tangkap Kabupaten Aceh Utara
+Analisis Forensik Layanan Signal Private Messenger pada Smartwatch Menggunakan Metode National Institute of Justice
+ANALISIS KUALITAS WEBSITE BALAI BESAR TAMAN NASIONAL GUNUNG GEDE PANGRANGGO (BBTNGGP) MENGGUNAKAN METODE WEBQUAL 4.0
+ANALISIS METODE ESTIMASI BIAYA PADA PERANGKAT LUNAK BESERTA FAKTOR-FAKTOR YANG MEMPENGARUHI: A SYSTEMATIC LITERATURE REVIEW
+Analisis Metode Quantum untuk Optimalisasi Algoritma Best First Search
+Analisis Optimasi Fungsi Pelatihan Machine Learning Neural Network dalam Peramalan Kemiskinan
+Analisis Pengaruh Implementasi E-Learning Vilep Di Poltekkes Kemenkes Palembang Dengan Pendekatan EUCS
+Analisis Perbandingan Nilai Akurasi Mekanisme Attention Bahdanau dan Luong pada Neural Machine Translation Bahasa Indonesia ke Bahasa Melayu Ketapang dengan Arsitektur Recurrent Neural Network
+Analisis Perbandingan Tiga Metode Untuk Mendiagnosa Penyakit Mata Pada Manusia
+Analisis Sentimen Hate Speech Pada Portal Berita Online Menggunakan Support Vector Machine (SVM)
+Analisis Technology Acceptance Model pada Sistem Pendukung Keputusan Pemilihan Jaksa Penuntut Umum Berbasis Analytical Hierarchy Process
+APLIKASI JURNAL HARIAN COVID-19 UNTUK PEMANTAUAN ISOLASI MANDIRI (PISOM)
+APLIKASI PENCARI KERJA SAMPINGAN BERBASIS FRAMEWORK FLUTTER
+Aplikasi Pencarian Pekerja Jasa Rumah Tangga di Sekitar dengan Metode Radius dan Rating Berbasis Android
+Aplikasi Pengaman Dokumen Digital Menggunakan Algoritma Kriptografi Hybrid dan Algoritma Kompresi Huffman
+Data Mining Menggunakan Algoritma Apriori dalam Rekomendasi Produk Restoran
+Deep Neural Network untuk Prediksi Stroke
+Desain Fitur Aplikasi E-Learning Penunjang Pembelajaran Berbasis Android
+EVALUASI MANAJEMEN KEAMANAN INFORMASI MENGGUNAKAN INDEKS KEAMANAN INFORMASI (KAMI) PADA JARINGAN (STUDI KASUS : UIN SUNAN KALIJAGA YOGYAKARTA)
+Faktor Penerimaan Pengguna Pada E-Learning Dari Perspektif Siswa Sekolah Dasar Berbasis UTAUT Model
+Forensik Digital Kasus Penyebaran Pornografi pada Aplikasi Facebook Messenger Berbasis Android Menggunakan Kerangka Kerja National Institute of Justice
+A Fuzzy Rule-Based Fog Cloud Computing Untuk Menganalisis Faktor Penyebab Kematian Ibu Meninggal Masa Postpartum
+Implementasi Jaringan VPN untuk Mengurangi Biaya Komunikasi Menggunakan Metode EoIP Over PPTP: Studi Kasus House Printing
+IMPLEMENTASI METODE NAÏVE BAYES UNTUK MENDETEKSI STRES SISWA BERDASARKAN TWEET PADA SISTEM MONITORING STRES
+Implementasi Metode Rapid Application Development (RAD) Dan Metode Alphabetical Filling Pada E-Arsip Di Fakultas Matematika Dan IPA Berbasis Web
+Implementasi Metode TwoStep Clustering untuk Klasterisasi Karakteristik Akademik Mahasiswa
+IMPLEMENTASI SIMPLE ADDITIVE WEIGHT PADA SISTEM PENDUKUNG KEPUTUSAN PENERIMA BANTUAN STIMULAN PERUMAHAN SWADAYA BERBASIS WEB DI DINAS PERUMAHAN DAN KAWASAN PERMUKIMAN KOTA MAGELANG
+INFORMASI DINI TERHADAP PENYAKIT KANKER PAYUDARA BERBASIS TELEPON PINTAR
+JARINGAN SYARAF TIRUAN PERAMBATAN BALIK UNTUK KLASIFIKASI COVID-19 BERBASIS TEKSTUR MENGGUNAKAN ORDE PERTAMA BERDASARKAN CITRA CHEST X-RAY
+KEBARUAN FUNGSIONAL VERTEX MARKER TERHADAP MARKER BASED AUGMENTED REALITY TRACKING FACTORS (JARAK, SUDUT, DAN LUAS PERMUKAAN)
+Kinerja Algoritma Optimasi Root-Mean-Square Propagation dan Stochastic Gradient Descent pada Klasifikasi Pneumonia Covid-19 Menggunakan CNN
+Klasifikasi Kategori Permasalahan Akademik Mahasiswa Comdev Universitas Tanjungpura Menggunakan Algoritma Naive Bayes
+KLASIFIKASI LAPORAN KELUHAN PELAYANAN PUBLIK BERDASARKAN INSTANSI MENGGUNAKAN METODE LDA-SVM
+Klasifikasi Tutupan Lahan Melalui Citra Satelit SPOT-6 dengan Metode Convolutional Neural Network (CNN)
+Komparasi Support Vector Machine, Logistic Regression Dan Artificial Neural Network dalam Prediksi Penyakit Jantung
+Matriks dan Pengukuran Terhadap Kinerja Tata Kelola Teknologi Informasi
+MEMAHAMI PERJALANAN "KAMPUNG CYBER" MELALUI LENSA ACTOR NETWORK THEORY
+Metode Antrian First In First Out Berbasis Website Pada Sistem Reservasi Gadget
+Metode MCDA Untuk Pengukuran Tingkat Kesadaran Keamanan Informasi Pada Mahasiswa
+MODEL ANALISIS AKTIVITAS TUTOR DALAM LEARNING MANAGEMENT SYSTEM BERDASARKAN DATA LOG MENGGUNAKAN K-MEANS DAN DETEKSI OUTLIER
+Model berbasis Sistem Kecerdasan Buatan yang Efektif: Analisis Kebijakan bagi Siswa Mengulang
+MODEL KLASIFIKASI CALON MAHASISWA BARU UNTUK SISTEM REKOMENDASI PROGRAM STUDI SARJANA BERBASIS MACHINE LEARNING
+Model Prototipe dan Analisis Use Case pada Rekayasa Kebutuhan Perangkat Lunak Pengajuan Dokumen Kependudukan
+Optimasi Deep Learning untuk Prediksi Saham di Masa Pandemi Covid-19
+Pemanfaatan Katalon Studio untuk Otomatisasi Pengujian Black-Box pada Aplikasi iPosyandu
+PEMBENTUKAN DAFTAR STOPWORD MENGGUNAKAN TERM BASED RANDOM SAMPLING PADA ANALISIS SENTIMEN DENGAN METODE NAÏVE BAYES (STUDI KASUS: KULIAH DARING DI MASA PANDEMI)
+Pembuatan Program Aplikasi Desain Batik Flora
+Pemodelan Klaster Frekuensi Suara Bising Mesin Pesawat Menggunakan Metode Extended Kalman Filter
+Pemodelan Site pada Heterogen Network 5G Menggunakan Optimized Network Enggineering Tools
+Pendekatan Baru untuk Merepresentasi Informasi di Bidang Pendidikan Menggunakan Kombinasi Ontologi
+PENDEKATAN MODEL ADDIE DAN FRAMEWORK MDA PADA GAMIFIKASI EDUKASI PENDIDIKAN SEKS ANAK USIA DINI
+PENERAPAN ALGORITME NEAREST CENTROID NEIGHBOR CLASSIFIER BASED ON K LOCAL MEANS USING HARMONIC MEAN DISTANCE (LMKHNCN) UNTUK KLASIFIKASI HASIL KINERJA PEGAWAI NEGERI SIPIL
+Penerapan Framework COBIT 2019 pada Audit Teknologi Informasi di Politeknik Sambas
+Penerapan Harmony Search Algorithm untuk Menyelesaikan Economic Dispatch dengan Memperhitungkan Rugi-Rugi Transmisi
+PENERAPAN METODE JARINGAN SYARAF TIRUAN BACKPROPAGATION UNTUK PREDIKSI TINGKAT KEMISKINAN DI PROVINSI JAWA TENGAH
+PENERAPAN METODE K-MEANS BERBASIS JARAK UNTUK DETEKSI KENDARAAN BERGERAK
+Penerapan Metode Left Corner Parsing Dan Analisis Kontekstual Pada Natural Language Processing
+Penerapan Model Single Sign-On dengan Sistem Front Office dan Layanan pada Sistem E-Bengkel Terintegrasi
+PENGARUH PREDIKSI MISSING VALUE PADA KLASIFIKASI DECISION TREE C4.5
+PENGEMBANGAN AUTOMATED IMAGE ANALYSIS UNTUK MENENTUKAN JUMLAH BAKTERI TAHAN ASAM (BTA) PADA KASUS TUBERCULOSIS
+PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS WEBSITE PADA MATA PELAJARAN DASAR DESAIN GRAFIS MENGGUNAKAN MODEL PENGEMBANGAN FOUR-D (STUDI PADA SMK NEGERI 1 REMBANG)
+Pengembangan Sistem Informasi Pelaporan Pembelajaran Daring dengan Model Rapid Application Development (Studi Kasus: Universitas Tanjungpura)
+Pengembangan Sistem Informasi Taman Pendidikan Al Qur’an Menggunakan Framework Java Spring
+PENGUJIAN USABILITY GOOGLE CLASSROOM BERDASARKAN MODEL USE-QUESTIONNAIRE
+Penyusunan Enterprise Architecture sebagai Strategi Perencanaan dan Penerapan Teknologi pada Proses Bisnis Kerjasama Perguruan Tinggi
+PERANCANGAN DAN PEMBUATAN SISTEM INFORMASI RETENSI REKAM MEDIS RAWAT JALAN DI PUSKESMAS JENGGAWAH KABUPATEN JEMBER
+PERANCANGAN USER EXPERIENCE WEBSITE TRAVEL MABRURO MENGGUNAKAN PENDEKATAN HUMAN-CENTERED DESIGN
+Perancangan Visualisasi Dashboard dan Clustering dengan Menerapkan Business Intelligence pada Dinas DPMPTSP Kabupaten Dharmasraya
+Perbandingan Algoritma Klasifikasi terhadap Emosi Tweet Berbahasa Indonesia
+Perbandingan Klasifikasi dengan Pendekatan Pembelajaran Mesin untuk Mengidentifikasi Tweet Hoaks di Media Sosial Twitter
+PERBANDINGAN METODE SMART DAN MAUT UNTUK PEMILIHAN KARYAWAN PADA MERAPI ONLINE CORPORATION
+Perencanaan Strategi Sistem Informasi Pada BKDIKLATDA Kota Salatiga Metode Ward And Peppart
+Peringkasan Teks Otomatis pada Modul Pembelajaran Berbahasa Indonesia Menggunakan Metode Cross Latent Semantic Analysis (CLSA)
+PROTOTYPE SISTEM INFORMASI MONITORING PENJUALAN
+Rancang Bangun Sistem Informasi Gelanggang Olahraga Berbasis Web dengan Metode Scrum
+Rancangan dan Evaluasi Sistem Informasi Inventori APD untuk Covid-19 dengan Metode PIECES
+Rancangan Sistem Informasi Pengelolaan Audit Mutu Internal (AMI) Perguruan Tinggi
+Segmentasi Citra Warna Otomatis Rambu Lalu Lintas dengan Penerapan Mask Thresholder
+Sentiment Analysis Objek Wisata Kalimantan Barat Pada Google Maps Menggunakan Metode Naive Bayes
+SIPGANG: Sistem Pendukung Keputusan Rekomendasi Magang Industri Berbasis Multi Attribute Utility Theory (MAUT)
+SISTEM BERBASIS PRIVATE BLOCKCHAIN SEBAGAI PENYEDIA LAYANAN AUTENTIKASI PUBLISHER-BROKER-SUBSCRIBER PADA PROTOKOL MESSAGE QUEUE TELEMETRY TRANSPORT
+Sistem Berkas Digital Sebagai Media Penyimpanan Dokumen Kinerja Dosen
+Sistem Deteksi Kelainan Neuromuscular Menggunakan Adaptive Neuro Fuzzy Inference System dan Dekomposisi Wavelet Elektromyogram
+SISTEM ISYARAT BAHASA INDONESIA (SIBI) METODE CONVOLUTIONAL NEURAL NETWORK SEQUENTIAL SECARA REAL TIME
+SISTEM KONTROL SWARM UNTUK FLOCKING WAHANA NIR-AWAK QUADROTOR DENGAN OPTIMASI ALGORITMA GENETIK
+SISTEM MONITORING FREKUENSI DENYUT NADI PADA PELARI MENGGUNAKAN METODE PHOTOPLETHYSMOGRAPHIC
+Sistem Pendeteksi Masker pada Pengemudi Kendaraan Menggunakan Kecerdasan Artifisial
+Smart Inventory System untuk Distribusi Vaksin dengan Metode Economic Order Quantity
+Strategi Konsep Gamifikasi dalam Aplikasi Teknologi Blockchain
+Tata Kelola Teknologi Informasi Menggunakan Framework COBIT 2019 (Studi Kasus: UPT TIK Universitas Tanjungpura Pontianak)
+TATA KELOLA TEKNOLOGI INFORMASI PADA SEKTOR PUBLIK: PENYELARASAN TEKNOLOGI INFORMASI DENGAN VISI KEPEMIMPINAN (STUDI KASUS: KOTA SALATIGA DAN KABUPATEN BENGKAYANG)
+TEKNOLOGI INTERNET OF THINGS (IoT) SISTEM KELISTRIKAN 3 PHASA DENGAN DATA REAL TIME PENGUKURAN BESARAN LISTRIK (STUDI KASUS: PENGARUH COVID-19 PADA KONSUMSI LISTRIK DI FAKULTAS TEKNIK UNIVERSITAS LAMPUNG)
+Text Mining Literature Review on Indonesian Social Media
+TOOL REFACTORING OTOMATIS UNTUK MENANGANI LAZY CLASS CODE SMELL DENGAN PENDEKATAN SOFTWARE METRICS
+Truck Sharing App Ekspedisi Jalur Pontianak Sandai dengan Metode Location Based Service Berbasis Progressive Web App
+USABILITY TESTING PADA M-COMMERCE MENGGUNAKAN KUESIONER USE (USEFULNESS, SATISFACTION, AND EASE OF USE) DAN PERFORMANCE TEST (STUDI KASUS : TOKOPEDIA)
+Variasi Thresholding untuk Segmentasi Pembuluh Darah Citra Retina

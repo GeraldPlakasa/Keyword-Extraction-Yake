@@ -1,0 +1,24 @@
+Perbuatan kriminal pada jaman sekarang semakin
+berkembang salah satunya adalah kriminal kejahatan dengan
+memanfaatkan sosial media. Pertumbuhan pengguna
+smartphone berbasis Android untuk mengakses media dalam
+berkomunikasi menggunakan media sosial Facebook
+Messenger sangat cepat. aktivitas kejahatan sebagaimana
+penyebaran konten pornografi yang belakangan ini banyak
+digunakan dengan aplikasi Facebook Messenger. Penelitian
+ni dilakukan untuk mendapatkan bukti forensik kegiatan
+kejahatan penyebarluasan pornografi pada aplikasi sosial
+media Facebook Messenger yang diakses melalui aplikasi
+smartphone. Penyelidikan dalam penelitian ni menggunakan
+metode National nstitute of Justice (NIJ) yang menyediakan
+beberapa tahap dentification, preservation, collection,
+examination, analysis, dan presentation. Pengangkatan bukti
+digital perilaku kriminal menggunakan software perangkat
+lunak Magnet Axiom dan Belkasoft Evidence Center. Bukti
+digital dicari terhadap perangkat pelaku kriminal
+penyebarluasan pornografi yang disita dengan skenario kasus
+dengan 11 variabel sehingga didapatkan barang bukti berupa
+spesifikasi perangkat, akun Facebook Messenger, email,
+gambar, video dan audio. Hasil penelitian ni menunjukkan
+Magnet Axiom lebih baik dengan akurasi 90,91%
+dibandingkan Belkasoft Evidence Center 46,66%.

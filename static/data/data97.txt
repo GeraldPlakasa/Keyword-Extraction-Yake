@@ -1,0 +1,29 @@
+Ekspedisi merupakan jasa pengiriman yang sangat
+dibutuhkan dikalangan pengiriman barang ketempat yang
+jauh, karena ekspedisi merupakan jasa yang mengirimkan
+barang sampai ditujuan dengan bertanggung jawab.
+Permasalahan ekspedisi ini khususnya area jalur Pontianak -
+Sandai oleh orang yang ingin memakainya jasa ini, kesulitan
+mengetahui posisi truk ekspedisi yang beroperasi saat ini.
+Sehingga truk-truk yang melalui jalur Pontianak – Sandai
+dalam keadaan tidak bermuatan dan ini tidak efisien karena
+biaya perjalanan akan meningkat apabila barang yang
+mereka bawa sedikit. Tujuan penelitian ini untuk
+membangun aplikasi truck sharing pada jalur Pontianak -
+Sandai dengan metode location based service (LBS) yang
+berbasis progressive web app (PWA). Pengimplementasian
+aplikasi ini, toko dapat memilih sendiri truk-truk ekspedisi
+mulai dari jarak yang terdekat dan rating, yang diberikan
+pihak toko lain sebelumnya. Aplikasi dibangung dengan
+menggunakan metode LBS dapat menampilkan titik-titik
+lokasi supir di sekitarnya dengan memanfaatkan GPS yang
+ada pada perangkat pengguna berdasarkan radius yang
+ditentukan oleh toko. Sedangkan penerapan PWA, bertujuan
+memudahkan pihak toko dan supir untuk mengakses aplikasi
+melalui semua perangkat seperti smartphone, PC, laptop,
+atau tablet. Perancangan sistem dibangun dengan
+menggunakan Unified Modelling Language (UML), untuk
+pengujian aplikasi dilakukan dengan dua cara, yaitu
+pengujian dengan metode Black Box dan Skala Likert. Hasil
+yang didapatkan dari pengujian Black Box adalah sistem
+dapat bekerja dengan LBS dan PWA sesuai yang diharapkan.

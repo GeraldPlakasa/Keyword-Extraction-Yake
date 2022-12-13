@@ -1,0 +1,11 @@
+Pendekatan klasifikasi data bersifat supervised learning menuntut adanya dataset yang lengkap. Permasalahan
+yang muncul adanya missing value yaitu hilangnya nilai suatu atribut yang diakibatkan kesalahan dalam
+pengumpulan data, kesalahan saat memasukkan data, dan ketidakmampuan responden untuk memberikan jawaban
+yang akurat. Penelitian ini melakukan uji coba pengembangan rule decision tree C4.5 untuk data penyakit ginjal
+kronis. Dataset terdiri dari 400 record, 24 atribut dan 1 kelas target. Karakteristik data yang digunakan meliputi 11
+data bertipe numerik dan 14 data bertipe nominal. Jumlah data kelas positif penyakit ginjal kronis 250, sedangkan
+negatif ginjal kronis 150. Total data yang tidak lengkap (missing value) 1012 records. Perlakuan pertama dibangun
+rule dengan menghitung entropy dan gain pada 360 data training yang terdapat missing value diperoleh 21 rules.
+Kemudian pada perlakuan kedua diterapkan prediksi missing value menggunakan rumus mean dan modus sebelum
+pembentukan rule tree, didapatkan 24 rules. Peneliti melakukan pengujian akurasi tree C.45 dengan 40 data uji,
+hasilnya 90% untuk rule dengan missing value dan 95% untuk dataset yang telah diprediksi nilainya.

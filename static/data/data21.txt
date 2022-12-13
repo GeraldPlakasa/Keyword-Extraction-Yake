@@ -1,0 +1,16 @@
+Serangan pada jaringan saat ini sangat sering terjadi, dengan semakin banyaknya cara untuk melakukan
+pengaksesan terhadap data dan semakin berkembangnya teknologi yang digunakan tentunya akan menyebabkan
+meningkatnya ancaman keamanan suatu jaringan. Evaluasi manajemen keamanan informasi menggunakan indeks
+keamanan informasi (KAMI) yang dilakukan pada jaringan di UIN Sunan Kalijaga Yogyakarta didapatkan hasil
+indeks 407, yang dianggap masih belum optimal. Hal ini yang mendasari perlunya implementasi Open Source
+SIEM (OSSIM) ke dalam indeks KAMI. Penelitian ini dilakukan untuk mengoptimalkan proses keamanan
+informasi agar dapat bekerja sesuai dengan standar indeks KAMI. Metode penelitian yang digunakan meliputi
+studi literatur, melakukan Pre-Assesment Indeks KAMI, mengimplementasi infrastruktur OSSIM, monitoring
+indeks keamanan informasi menggunakan teknologi OSSIM, dan melakukan Post-Assesment Indeks KAMI,
+tahapan akhir ini menganalisis hasil monitoring untuk dibuat perbandingan bagaimana kondisi jaringan sebelum
+dan sesudah diimplementasikan OSSIM pada jaringan. Skor nilai perbandingan dari hasil penelitian terkait Indeks
+KAMI menunjukkan peningkatan skor penilaian sebesar 25, setelah diterapkan penggunaan OSSIM dari
+sebelumnya tanpa penerapan OSSIM sebesar nilai 407 menjadi 432. Peningkatan indeks KAMI membantu
+menaikan nilai pada aspek tata kelola, pengelolaan asset dan teknologi, namun tingkat kelayakan keamanan
+informasi masih di level I+ sampai dengan II+ sehingga keamanan informasi pada jaringan tidak layak dan butuh
+perbaikan.

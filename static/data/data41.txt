@@ -1,0 +1,16 @@
+Pada sebuah institusi pendidikan tinggi tentunya hal yang lumrah dilakukan oleh
+mahasiswa dalam menjalankan berbagai aktifitas akademik dan non akademik dengan
+memanfaatkan teknologi informasi. Kesadaran akan keamanan informasi merupakan salah satu
+faktor penting didalam pemanfaatan teknologi tersebut. Tingkat kesadaran yang rendah akan
+mengakibatkan banyaknya insiden keamanan informasi yang muncul. Penelitian ini melakukan
+pengukuran tingkat kesadaran mahasiswa STMIK XYZ terhadap keamanan informasi. Tujuan
+penelitian ini untuk mengetahui tingkat kesadaraan keamanan informasi mahasiswa dengan
+demikian dapat ditentukan tindakan yang perlu dilakukan untuk memperbaiki kesadaran yang
+masih rendah dan mempertahankan yang sudah baik. Metode yang digunakan adalah metode
+Multiple Criteria Decision Analysis (MCDA). Metode pengumpulan data menggunakan
+kuesioner. Hasil penelitian ini menunjukkan bahwa tingkat kesadaran keamanan informasi
+mahasiswa STMIK XYZ berada pada level “sedang” dengan nilai 71%. Dari tiga dimensi yang
+diukur hanya ada satu dimensi yang berada pada level “buruk” yaitu dimensi behaviour. Dari
+enam area pengukuran ada tiga area pengukuran yang berada pada level buruk yaitu policies,
+mobile equipment dan consequences. Hasil tersebut menunjukkan perlu adanya perhatian
+khusus dan tindakan konkrit untuk meningkatkan level kesadaran keamanan informasi.

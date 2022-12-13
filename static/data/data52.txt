@@ -1,0 +1,25 @@
+Ontologi adalah sebuah konsep yang dirancang
+untuk merepresentasikan relasi antar informasi. Ontologi
+dapat digunakan untuk merepresentasikan informasi
+berbentuk hierarki maupun non hierarki. Namun, model
+ontologi yang ada saat ini pada umumnya selalu bersifat
+domain spesifik. Peran ahli sangat dominan ketika membuat
+ontologi yang bersifat domain spesifik. Kelengkapan
+informasi pada ontologi tergantung pada kemampuan ahli
+pada domain tersebut dan ahli di bidang teknologi informasi
+untuk merepresentasikan informasi ke dalam bentuk
+ontologi. Oleh sebab itu diperlukan model ontologi baru
+agar dapat menghasilkan ontologi yang tidak bersifat
+domain spesifik. Sehingga mempermudah proses
+representasi informasi ke dalam bentuk ontologi dan
+mengurangi peran ahli dalam proses pembuatan ontologi
+tersebut. Model ontologi baru yang diusulkan adalah
+kombinasi dari ontologi taksonomi dan ontologi kalimat.
+Informasi berbentuk hierarki akan direpresentasikan dalam
+bentuk ontologi taksonomi, sedangkan informasi non-
+hierarki akan direpresentasikan dalam bentuk ontologi
+kalimat. Berdasarkan uji coba yang telah dilakukan,
+diketahui bahwa kombinasi ontologi yang diusulkan dapat
+menghasilkan ontologi yang tidak bersifat domain spesifik,
+mempermudah proses pembangkitan ontologi, dan
+mengurangi peran ahli dalam pembuatan ontologi tersebut.

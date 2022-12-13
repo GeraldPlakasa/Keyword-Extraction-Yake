@@ -1,0 +1,16 @@
+Tujuan dari penelitian ini adalah melakukan edukasi mengenai pendidikan seks pada anak pada usia dini
+sesuai dengan kategori umur yang ditentukan oleh WHO dengan pendekatan gamifikasi. Pendekatan gamifikasi
+digunakan dalam penyampaian informasi dikarenakan menunjukkan grafik positif dalam memotivasi
+meningkatkan lingkungan belajar yang positif. Kontribusi penelitian ini dengan mengembangangkan aplikasi
+gamifikasi untuk edukasi pendidikan seks dilakukan dengan menggunakan model ADDIE dikombinasikan dengan
+pendekatan elemen-elemen pada framework MDA (Mechanics, Dynamics and Aesthetics). Tahapan-tahapan
+pengembangan gamifikasi edukasi pendidikan seks pada anak usia dini dimulai dengan praproses potensi masalah,
+analysis, design, development, implementation, dan evaluation yang akhirnya akan menjadi final model setelah
+dilakukan uji respon pengguna terhadap aplikasi yang dikembangkan. Sedangkan fokus elemen pada framework
+MDA yang digunakan diantaranya elemen mechanics meliputi; genre,goal, platform, rating, level, dan concept
+art, elemen dynamic meliputi; storyline, game controls, challenge, dan game rules, sedangkan elemen aesthetics
+meliputi; sensation, narrative, dan submission. Respon pengguna dilakukan untuk mengetahui aplikasi gamifikasi
+edukasi pendidikan seks pada anak usia dini teruji secara empiris dan terukur pada seluruh tahapan pengembangan
+pada Model ADDIE dan MDA. Aplikasi game ini juga telah diujicobakan ke 45 user dengan menggunakan skor
+ideal (kriterium) yang digunakan untuk menghitung skor rating scale atau interval-nya dan jumlah seluruh
+jawaban. Diperoleh hasil persentase sebesar 89% (Sangat Baik).

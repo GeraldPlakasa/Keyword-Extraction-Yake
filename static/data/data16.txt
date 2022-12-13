@@ -1,0 +1,24 @@
+Berkurangnya lapangan pekerjaan akibat
+penurunan beberapa sektor usaha dikarenakan masa krisis
+akibat pandemi, membuat banyak pekerja memilih beralih
+menjadi pekerja rumah tangga untuk memperoleh
+penghasilan. Penelitian ini bertujuan untuk membuat aplikasi
+yang dapat mempertemukan pencari kerja dengan pemberi
+kerja. Digunakan Metode Radius yang memanfaatkan Google
+Maps API dalam mengakses lokasi pemberi kerja dan pencari
+kerja sehingga pencari kerja dapat dengan mudah mencari
+pekerjaan yang berada disekitarnya. Pekerjaan yang telah
+diselesaikan akan diberikan rating oleh pemberi kerja sesuai
+tingkat kepuasan terhadap hasil pekerjaan pencari kerja.
+Aplikasi yang dibangun sudah memiliki peningkatan
+keamanan seperti enkripsi koneksi web service ke server
+Backend, verifikasi OTP nomor telepon, dan verifikasi data
+pengguna dengan foto kartu identitas. Menggunakan metode
+black box testing, semua fitur dapat berjalan secara optimal.
+Pengujian dilakukan terhadap 20 pengguna dengan
+menggunakan mobile phone berbasis android dengan
+beragam versi. Hasil ujicoba menunjukkan bahwa semua
+fitur dapat berjalan secara optimal pada Android versi 7
+hingga 11 dengan akurasi 95% namun 1 dari 20 pengguna
+tersebut tidak dapat menjalankan aplikasi karena android
+yang digunakan berada di bawah versi 7.

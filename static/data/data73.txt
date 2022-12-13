@@ -1,0 +1,21 @@
+Penelitian ini merancang sistem untuk menentukan pemilihan karyawan terbaik menggunakan Sistem Pendukung
+Keputusan (SPK). Perhitungan sistem menggunakan metode SMART dan MAUT. SMART merupakan metode
+pengambilan keputusan multiatribut yang setiap alternatif terdiri dari sekumpulan atribut dan setiap atribut
+mempunyai nilai-nilai. Sedangkan MAUT didasarkan pada konsep dimana pembuat keputusan dapat menghitung
+utilitas dari setiap alternatif menggunakan fungsi MAUT dan dapat memilih alternatif dengan utilitas tertinggi.
+Metode SMART digunakan karena perhitungannya lebih sederhana dan memungkinkan penambahan serta
+pengurangan alternatif tanpa mempengaruhi perhitungan pembobotan mengingat jumlah karyawan bisa berkurang
+dan bertambah secara tidak teratur. Sedangkan metode MAUT digunakan karena memunculkan hasil urutan
+peringkat dimana akan muncul hasil nilai terbesar sampai nilai terkecil sehingga dapat diketahui karyawan dengan
+terbaik dengan nilai tertinggi. Sehingga dapat mengambil keputusan dengan efektif atas persoalan yang kompleks
+dengan menyederhanakan dan mempercepat proses pengambilan keputusan. Metode penelitian yang digunakan
+adalah metode pengembangan sistem model waterfall, metodologi ini terdapat tahapan-tahapan kegiatan yang
+harus dilakukan dalam merancang suatu sistem. Perhitungan menggunakan 30 sampel data karyawan dan empat
+kriteria penilaian. Empat kriteria tersebut adalah presensi dengan bobot 40, masa kerja dengan bobot 30, ijin
+dengan bobot 20, dan disiplin dengan bobot 10. Data karyawan yang digunakan adalah karyawan yang sama dalam
+kedua metode serta mempunyai data penilaian yang sama. Hasil perhitungan menggunakan SMART dan MAUT
+menunjukkan bahwa keduanya dapat diimplementasikan dan berfungsi dengan baik untuk menentukan karyawan
+terbaik. Dengan menggunakan data alternatif, nilai alternatif, dan bobot kriteria yang sama diperoleh hasil bahwa
+metode SMART memberikan hasil yang lebih baik dengan 22 peringkat, sedangkan metode MAUT menghasilkan
+18 peringkat. Semakin banyak jumlah peringkat yang muncul maka semakin baik karena mampu meminimalisir
+nilai preferensi yang sama, sehingga perankingan alternatif dapat dilakukan dengan baik.

@@ -1,0 +1,13 @@
+Keberhasilan sebuah perusahaan terjadi karena dapat mengelola sumber daya manusianya dengan baik begitu
+juga sebaliknya. Salah satu instansi yang mengelola sumber daya manusia menggunakan Manajemen Talenta
+adalah Badan Kepegawaian Daerah (BKD) kota Malang, dengan mengevaluasi pegawainya setiap tahunnya
+setelah pekerjaan selesai dilakukan. Hal ini menyebabkan hasil pekerjaan yang telah dilakukan tidak optimal,
+sehingga perlu identifikasi dini pegawai yang memiliki kinerja dibawah rata – rata sehingga dapat dievaluasi dan
+meminimalisir hasil pekerjaan yang tidak optimal dengan menggunakan teknik klasifikasi. Penelitian ini
+menggunakan teknik klasifikasi Nearest Centroid Neighbor Classifier Based on K Local Means Using Harmonic
+Mean Distance (LMKHNCN). Metode ini merupakan metode modifikasi dari metode K-Nearest Neighbor
+(KNN) dan dibuktikan memiliki performa lebih baik dibandingkan dengan metode aslinya KNN. Dilakukan
+pengujian F1-Score dan akurasi menggunakan K-Fold Cross Validation untuk mengetahui persebaran akurasi
+dan juga pengujian mengenai pengaruh normalisasi karena tidak ada informasi normalisasi pada penelitian
+sebelumnya. Metode pada kasus ini menghasilkan performa klasifikasi yang baik, dibuktikan bahwa hasil
+akurasi dan F1-Score oleh metode ini berturut – turut ialah mencapai 98,8% dan 98,1%.

@@ -1,0 +1,21 @@
+Lahan merupakan suatu wilayah dimana seluruh
+bagian biosfer dianggap tetap atau siklis yang terdapat di atas
+maupun di bawah permukaan bumi. Klasifikasi lahan
+dilakukan dengan tujuan untuk memudahkan pemantauan
+penggunaan serta pengaturan tata letak lahan pada suatu
+wilayah. Pada penelitian ini dilakukan klasifikasi terhadap
+citra lahan yang diperoleh dari satelit SPOT-6 dengan
+menggunakan Metode Convolutional Neural Network (CNN).
+Jenis lahan yang dilakukan klasifikasi berupa sawah, hutan,
+pemukiman, sungai dan bukit gundul dengan jumlah data
+yang digunakan adalah 350 data citra lahan. Dari total data,
+sebanyak 75% data digunakan sebagai data latih dan 25%
+digunakan sebagai data uji. Model CNN yang digunakan
+pada penelitian ini yaitu basic CNN dengan arsitektur yang
+terdiri dari 3 hidden convolutional layer, 1 fully connected
+layer dan 2 stride. Hasil performansi sistem yang diperoleh
+pada penelitian ini diantaranya adalah akurasi 95,45%, loss
+0,2457, serta rata-rata dari masing-masing nilai precision,
+recall dan f1-score sebesar 0,92. Dapat disimpulkan bahwa
+metode CNN dapat digunakan secara optimal dalam
+mengklasifikasikan 5 jenis tutupan lahan.

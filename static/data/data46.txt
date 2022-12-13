@@ -1,0 +1,17 @@
+Penelitian ini bertujuan untuk meningkatkan
+akurasi dengan menurunkan tingkat kesalahan prediksi dari
+5 data saham blue chip di Indonesia. Dengan cara
+mengkombinasikan desain 4 hidden layer neural nework
+menggunakan Long Short Term Memory (LSTM) dan Gated
+Recurrent Unit (GRU). Dari tiap data saham akan dihasilkan
+grafik rmse-epoch yang dapat menunjukan kombinasi layer
+dengan akurasi terbaik, sebagai berikut; (a) BBCA dengan
+layer LSTM-GRU-LSTM-GRU (RMSE=1120,651, e=15), (b)
+BBRI dengan layer LSTM-GRU-LSTM-GRU (RMSE
+=110,331, e=25), (c) INDF dengan layer GRU-GRU-GRU-
+GRU (RMSE =156,297, e=35 ), (d) ASII dengan layer GRU-
+GRU-GRU-GRU (RMSE =134,551, e=20 ), (e) TLKM dengan
+layer GRU-LSTM-GRU-LSTM (RMSE =71,658, e=35 ).
+Tantangan dalam mengolah data Deep Learning (DL) adalah
+menentukan nilai parameter epoch untuk menghasilkan
+prediksi akurasi yang tinggi.

@@ -1,0 +1,26 @@
+Kebisingan adalah bunyi yang tidak diinginkan
+dari usaha atau kegiatan dalam tingkat dan
+waktu tertentu yang dapat menimbulkan gangguan
+kesehatan manusia dan kenyamanan lingkungan. Salah
+satunya kebisingan pada wilayah bandara yang terpancar
+dari gelombang suara mesin pesawat udara dan dapat
+mengganggu lingkungan. Menurut World Health
+Organization (WHO) suara bising sekeras 85 dB hanya dapat
+didengar secara terus menerus maksimal selama 8 jam per-
+hari. Setiap peningkatan suara bising sebesar 3 dB maka
+suara bising bertambah dua kali lipat. Suara bising dapat
+menjadi salah satu penyebab gangguan pendengaran (Noise
+Induced Hearing Loss). Penelitian ini menyajikan
+perencanaan mekanisme identifikasi sistem yang mencakup
+perencanaan skema identifikasi, pembentukan pasangan data
+identifikasi, dan penurunan algoritme identifikasi. Metode
+Extended Kalman Filter digunakan dalam mekanisme
+identifikasi untuk menemukan model hubungan antara
+komponen dominan pembentuk suara bising dengan
+suara bising secara keseluruhan yang kemudian dilakukan
+validasi terhadap model tersebut. Pengujian terhadap model
+dilakukan menggunakan sinyal-sinyal hasil pengukuran yang
+tidak diikutsertakan selama proses identifikasi. Hasil dari
+penelitian ini diperoleh bahwa frekuensi noise saat
+pesawat tinggal landas berkisar antara 50 Hz – 7000 Hz
+dengan model matematis spreaded continuous frequency.

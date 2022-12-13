@@ -1,0 +1,26 @@
+Penelitian ini melakukan analisis desain Pemodelan
+Site Pada Heterogen Network 5G (HetNet 5G) Menggunakan
+Optimized Network Enggineering Tools. Pemodelan
+menggunakan perhitungan dan simulasi untuk menganalisis
+traffic dan coverage generasi sebelumnya yaitu 4G LTE yang
+diterapkan pada jaringan seluler existing pada site HetNet
+5G, untuk memenuhi kebutuhan penempatan site 5G. Hasil
+penelitian ini diharapkan dapat digunakan sebagai
+rekomendasi bagi operator seluler. Data yang digunakan
+simulasi diperoleh dari salah satu operator seluler Indonesia
+di wilayah Kecamatan Lowokwaru Malang yaitu sebanyak
+40 site. Berdasarkan perhitungan dan simulasi dari ke 40
+site tersebut diperoleh 6 site yang potensi diterapkan site
+teknologi 5G. Tahapan penelitian ini diawali dengan
+penentuan lokasi wilayah yang potensi diterapkan site 5G,
+data lokasi koordinat dan parameter site untuk perhitungan
+prediksi kenaikan jumlah penduduk selama 5 tahun yang
+akan datang, analisis morfologi dan wilayah point of interes
+(POI), serta kapasitas penduduk sedangkan perhitungan
+troughput menjadi kriteria di masing-masing kelurahan.
+Selanjutnya, hasil perhitungan dan simulasi di plotkan pada
+Map Info untuk menampilkan persebaran site di masing-
+masing kelurahan. Site yang memenuhi potensi 5G di plot
+dengan diagram voronoi aplikasi dalam Map Info sesuai
+radius 4G dan 5G. Diagram voronoi menampilkan coverage
+berbeda teknologi 4G dan 5G.

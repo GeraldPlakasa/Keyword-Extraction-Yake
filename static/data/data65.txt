@@ -1,0 +1,11 @@
+Taman Pendidikan Al Qur’an merupakan sebuah lembaga pendidikan Agama Islam
+non formal yang bertujuan untuk mengajarkan Al Qur’an sejak usia dini. Salah satunya adalah
+TPA Al HIjrah yang terletak di Kecamatan Nanggalo Padang, Indonesia. Selama ini proses
+akademik pada TPA masih menggunakan pendataan sederhana secara manual. Penelitian ini
+menggunakan metode System Development Life Cycle (SDLC) dan bertujuan untuk
+menghasilkan sebuah sistem informasi yang dapat mengelola data data dan menyajikan
+informasi tentang TPA tersebut yang bisa diakses dimana saja. PIECES framework digunakan
+untuk melakukan analisis kebutuhan sistem, sedangkan dalam perancangannya menggunakan
+metode UnifiedModellingLanguage. Dalam pengembangan sistem digunakan bahasa
+pemrograman Java dengan Framework Spring. Sistem yang dihasilkan memiliki 3 jenis hak
+akses yakni administrator sistem, guru dan santri dan nantinya bisa diakses secara online.

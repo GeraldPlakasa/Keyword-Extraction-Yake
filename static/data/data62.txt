@@ -1,0 +1,16 @@
+Diagnosis TB (tuberculosis) oleh tenaga kesehatan menjadi kunci penting dalam menemukan pasien baru TB.
+Diagnosis umum yang digunakan di Fasilitas Kesehatan (Faskes) TK 1 seperti puskesmas dilakukan dengan cara
+mewarnai spesimen dahak penderita dengan metode Ziehl-Neelsen untuk mendeteksi keberadaan Bakteri Tahan
+Asam seperti Mycobaterium tuberculosis penyebab TB. Namun pada praktiknya, penghitungan manual dengan
+bidang pandang terbatas pada mikroskop membutuhkan waktu pengerjaan yang cukup panjang. Dimasa pandemi
+covid19, efisiensi pengerjaan diagnosis harian termasuk pemeriksaan BTA harus ditingkatkan karena keterbatasan
+tenaga ATLM dilapangan yang turut bekerja menghadapi Covid19. Maka, pada penelitian ini akan dikembangkan
+sebuah automated image analysis, atau analisis citra secara otomatis yang dapat menghitung jumlah bakteri yang
+tampak pada mikroskop. Proses pembuatan apusan BTA didapat 3 preparat yang menghasilkan data citra sebanyak
+total 171 citra. Noise pada citra dapat diatasi menggunakan metode CLAHE untuk memperbaiki kontras. Metode
+untuk pengolahan citra digital yang digunakan yaitu segmentasi HCA (Hiearcical Cluster Analysis) untuk
+memisahkah objek BTA dengan latar belakang. Hasil segmentasi dilakukan proses operasi morfologi untuk
+menghilangkan objek kecil selain objek BTA yang bekerja baik pada citra biner untuk mempermudah perhitungan
+jumlah bakteri. Metode HCA yang dikombinasikan dengan strategi seleksi objek dapat melakukan segmentasi
+objek BTA dengan baik. Hasil evaluasi menunjukkan RMSE (Root Mean Square Error) sebesar 2.484 yang
+didapat pada saat threshold 0.11.

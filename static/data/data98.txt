@@ -1,0 +1,18 @@
+M-commerce adalah kegiatan membeli dan menjual produk atau layanan menggunakan perangkat seluler.
+Tokopedia adalah salah satu e-commerce yang saat ini menempati peringkat 3 versi Playstore pada perangkat
+berbasis android dan peringkat 2 versi Appstore pada perangkat berbasis IOS. Tokopedia mempunyai fitur lain
+seperti pembelian pulsa, pembayaran tagihan, pemesanan tiket transportasi, angsuran kredit, investasi dan asuransi
+dan lain-lain. Tingginya peringkat dan banyaknya fitur pastinya diimbangi dengan baiknya usability yang
+dirasakan pengguna pada aplikasi tersebut. Untuk mengetahui usability sebuah aplikasi perlu dilakukan Usability
+Testing pada aplikasi tersebut sehingga dapat menjadi bahan evaluasi untuk meningkatkan fitur dan kenyamanan
+aplikasi. Pada faktor User Interface dan User Experience (UI/UX), usability juga salah satu aspek penting bagi
+developer untuk pengembangan aplikasi atau pembaruan yang akan datang. Penelitian ini melakukan usability
+testing dengan proportional random sampling pada populasi mahasiswa dengan sistem operasi android dan IOS.
+Penelitian ini diperoleh nilai usability aplikasi Tokopedia sebesar 4,14 yang berarti usability aplikasi Tokopedia
+bisa dikatakan baik dan nyaman digunakan oleh user. Pengalaman antara pengguna android dan IOS juga sama-
+sama menghasilkan nilai yang baik dibuktikan dengan hasil Independent Sample T-Test sebesar 0, 292 sedangkan
+pengalaman pengguna laki-laki dan perempuan juga sama-sama mendapatkan pengalaman baik dengan hasil
+Independent Sample T-Test sebesar 0, 756. Persentase aspek pada kuesioner USE didapatkan sebesar 84% untuk
+aspek system, 83% untuk aspek user dan 82% untuk aspek interaction. Penelitian juga memperoleh hasil waktu
+yang dibutuhkan, jumlah error, tingkat keberhasilan, efisiensi waktu dan efisiensi relatif keseluruhan sebagai data
+pendukung.

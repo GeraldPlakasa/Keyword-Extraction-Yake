@@ -1,0 +1,19 @@
+Sistem informasi manajemen menjadi kebutuhan suatu perusahaan atau organisasi untuk membantu kegiatan
+operasional, memudahkan manajemen dalam melakukan pengawasan dan meningkatkan produktivitas. PT.
+Telkom Akses merupakan perusahaan yang bergerak dalam bidang penyediaan layanan konstruksi dan
+pengelolaan infrastruktur jaringan. Permasalahan yang terjadi, dalam memanajemen validasi data hasil
+pembangunan fiber optik tidak efektif dan tidak termonitor dengan baik, masih dilakukan secara manual tanpa
+menggunakan sistem, sehingga dengan proses yang berjalan saat ini mengakibatkan adanya data pembangunan
+yang terlewatkan untuk divalidasi. Order validasi yang tidak tercatat prosesnya secara detail mulai dari order
+masuk untuk divalidasi, status order, pemberian pelabelan, dan proses pembuatan laporan yang memakan waktu
+karena dilakukan secara manual dan tidak terupdate secara langsung sesuai dengan kondisi order. Tujuan
+dilakukannya penelitian ini untuk menghasilkan rancangan sistem informasi yang dapat memanajemen validasi
+data pembangunan fiber optik pada PT.Telkom Akses, dengan menghasilkan rancangan aplikasi berbasis web
+yang dapat melakukan pengelolaan setiap order dan menghasilkan keluaran laporan hasil validasi untuk
+keperluan manager. Penelitian ini menggunakan metode kualitatif dengan tahapan penelitian mulai dari
+mengidentifikasi masalah dengan menggunakan metode PIECES, studi literatur, pengumpulan data, analisa
+sistem, dan perancangan sistem menggunakan diagram Unified Modeling Language (UML) dan rancangan
+prototype antar muka dengan teknil flat design. Hasil evaluasi menggunakan metode consistency analysis
+menghasilkan persentas 100% yang menunjukan bahwa rancangan sistem informasi sudah sesuai dengan
+kebutuhan dan diharapkan dapat dilakukan implementasi perangkat lunak sistem informasi manajemen validasi
+data pembanguan fiber optik.

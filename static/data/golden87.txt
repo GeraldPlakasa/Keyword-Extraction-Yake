@@ -1,0 +1,1 @@
+quadrotor, swarm cerdas, tarikan / tolakan, algoritma genetik, penjejakan lintasan

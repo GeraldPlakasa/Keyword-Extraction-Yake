@@ -1,0 +1,15 @@
+Listrik menjadi salah satu sumber daya wajib dalam dunia modern. Perkantoran menggunakan sistem listrik 3
+phasa karena kebutuhan listriknya yang tinggi. Untuk dapat menggunakan listrik dengan efektif dan efisien, perlu
+diketahui jumlah konsumsi energi listrik yang digunakan. Teknologi Internet of Things (IoT) Sistem Kelistrikan 3
+Phasa dengan Data Real Time Pengukuran Besaran Listrik dikembangkan untuk dapat mengukur perubahan
+besaran listrik pada sistem listrik 3 phasa. Pengamatan terhadap penggunaan teknologi tersebut dilakukan terhadap
+perubahan energi listrik pada masa sebelum dan sesudah pandemi COVID-19 untuk menguji kemampuan
+perangkat dan melihat bagaimana pengaruh pandemi COVID-19 terhadap variabel besaran listrik yang tentu juga
+akan mempengaruhi sistem kelistrikan secara umum. Pengukuran besaran listrik dilakukan menggunakan
+perangkat Prototype Smart Monitoring pengukuran listrik tiga phasa yang menyimpan data pada sistem private
+cloud di UPT TIK Universitas Lampung. Dengan menganalisis data hasil pengukuran besaran listrik pada gedung
+H Jurusan Teknik Elektro, diketahui bahwa kejadian COVID-19 telah memberikan efek terhadap penurunan grafik
+hasil pengukuran arus hingga 90% (kondisi work from home) dan 60% (kondisi New Normal) yang memberikan
+indikasi bahwa penggunaan beban juga menurun. Sementara besaran listrik lainnya tegangan dan frekuensi
+cenderung stabil. Sistem Kelistrikan 3 Phasa dengan Data Real Time Pengukuran Besaran Listrik terbukti dapat
+digunakan untuk melakukan analisis terhadap perubahan besaran listrik pada sistem listrik 3 phasa.

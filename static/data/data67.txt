@@ -1,0 +1,32 @@
+IAPT 3.0 merupakan Instrumen Akreditasi
+Perguruan Tinggi yang telah ditetapkan pada tahun 2019 oleh
+Badan Akreditasi Nasional Perguruan Tinggi. IAPT 3.0
+merupakan instrumen penilaian terbaru yang telah
+disesuaikan dengan peraturan perundangan terkini dan
+sebagai upaya perbaikan berkelanjutan. Salah satu
+perubahan pada IAPT 3.0 terletak pada penilaian Kerjasama
+di Pendidikan Tinggi. Institut Teknologi Telkom Purwokerto
+(ITTP) sebagai salah satu perguruan Tinggi swasta di Jawa
+Tengah merasa perlu beradaptasi dengan instrumen
+akreditasi yang baru ini untuk meningkatkan nilai
+akrerditasi Perguruan Tinggi. Permasalahan yang dihadapi
+oleh ITTP untuk proses bisnis Kerjasama adalah seluruh
+aktivitas masih dilakukan secara manual dan belum
+terintegrasi. Permasalahan tersebut menjadikan ITTP perlu
+berinovasi dengan teknologi untuk menyelaraskan antara
+strategi bisnis dan teknologi informasi khususnya pada proses
+bisnis Kerjasama. Penyelarasan dilakukan dengan membuat
+enterprise architecture (EA) yang sesuai dengan proses bisnis
+Kerjasama pada ITTP. Perancangan EA menggunakan
+TOGAF ADM yang meliputi fase preliminary phase,
+architecture vision, business architecture, information system
+architecture, technology architecture, opportunities and
+solutions dan migration planning. Hasil yang diperoleh pada
+penelitian ini adalah rancangan EA yang telah disesuaikan
+pada proses bisnis Kerjasama di ITTP dan architecture
+roadmap yang disusun menggunakan metode Promethee.
+Berdasarkan metode Promethee, urutan pengembangan
+aplikasi ePartnership sesuai dengan fungsionalitas sistemnya
+adalah diawali dengan pembuatan fungsionalitas pengajuan
+Kerjasama, alert system, dan terakhir adalah evaluasi
+kegiatan Kerjasama.

@@ -1,0 +1,21 @@
+Penelitian ini menggunakan model prototipe dan
+analisis use case sebagai pendekatan dalam rekayasa
+kebutuhan perangkat lunak pengajuan dokumen
+kependudukan. Sebuah rangkaian fase iteratif prototipe dan
+analisis use case untuk rekayasa kebutuhan perangkat lunak
+pengajuan dokumen kependudukan dideskripsikan. Tujuan
+penggunaan model prototipe dan analisis use case ini yaitu
+untuk menangkap kebutuhan perangkat lunak dari beragam
+stakeholder, dan membantu stakeholder memahami setiap
+fungsi dengan mudah, memberikan evaluasi dengan cepat
+dan membantu pihak pengembang mendokumentasikan
+kebutuhan dengan cepat. Penelitian ini menghasilkan 12 (dua
+belas) kebutuhan awal, 12 (dua belas) prototipe serta 14
+(empat belas)spesifikasi kebutuhan perangkat lunak. Seluruh
+prototipe telah dievaluasi dan memenuhi seluruh kebutuhan
+pengguna dan fungsionalitas berdasarkan evaluasi dengan
+traceability matrix. Spesifikasi kebutuhan perangkat lunak
+pengajuan dokumen kependudukan yang dihasilkan dapat
+digunakan dalam pengembangan aplikasi pengajuan
+dokumen kependudukan sebagai rekomendasi penelitian
+kedepannya.

@@ -1,0 +1,33 @@
+Era sekarang jumlah berita dari berbagai media
+sosial yang tersebar dalam waktu singkat dan kebutuhan
+masyarakat untuk mengkonsumsi berita dalam berbagai
+referensi dapat mempengaruhi kehidupan masyarakat. Hal
+ini menyebabkan data yang tersebar dapat dikumpulkan dan
+dimanfaatkan oleh pemerintah, pengusaha, analisis, ataupun
+peneliti untuk mengidentifikasi tren, mengembangkan bisnis,
+memprediksi perilaku pelanggan dan lain sebagainya.
+Pengumpulan data berita dari media sosial tersebut dapat
+menggunakan text mining yang melibatkan algoritma yakni
+Naive Bayes, K-NN, dan SVM. Namun, penggunaan algoritma
+pada studi kasus yang tidak sesuai dapat memberikan hasil
+yang tidak optimal. Oleh karena itu, penelitian ini akan
+menganalisis algoritma text mining yang diimplementasikan
+pada media sosial berbahasa Indonesia dengan memakai
+metode systematic literature review. Metode ini dimulai
+dengan melakukan tahap planning yang menetapkan
+pertanyaan penelitian, kata pencarian, sumber literatur
+digital, dan standard literatur. Dilanjutkan dengan tahap
+conducting yang memilih dan mencocokan standard literatur,
+serta ekstraksi data. Kemudian tahap reporting yang
+melakukan analisis hasil ekstraksi data sehingga bisa
+menemumkan informasi dan pengetahuan. Tolak ukur yang
+menjadi acuan untuk perbandingan yakni pengujian
+confusion matrix berupa accuracy, precision, dan recall.
+Adapun hasil dari penelitian ini ditemukan algoritma Naive
+Bayes memberikan hasil yang stabil tapi kurang optimal jika
+diterapkan pada studi kasus media sosial berbahasa
+Indonesia. Sedangkan algortima K-NN dan SVM ditemukan
+memberikan hasil yang optimal jika diterapkan pada studi
+kasus media sosial berbahasa Indonesia yang dibuktikan
+dengan accuracy (50%-98.13%), precision (58.22%-98.48%),
+dan recall (21.05%-98%).

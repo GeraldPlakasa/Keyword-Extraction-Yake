@@ -1,0 +1,16 @@
+Sebuah sistem layanan untuk menyampaikan aspirasi dan keluhan masyarakat terhadap layanan pemerintah
+Indonesia, bernama Lapor! Pemerintah sudah lama memanfaatkan sistem tersebut untuk menjawab
+permasalahan masyarakat Indonesia terkait permasalahan birokrasi. Namun, peningkatan volume laporan dan
+pemilahan laporan yang dilakukan oleh operator dengan membaca setiap keluhan yang masuk melalui sistem
+menyebabkan sering terjadi kesalahan dimana operator meneruskan laporan tersebut ke instansi yang salah. Oleh
+karena itu, diperlukan suatu solusi yang dapat menentukan konteks laporan secara otomatis dengan
+menggunakan teknik Natural Language Processing. Penelitian ini bertujuan untuk membangun klasifikasi
+laporan secara otomatis berdasarkan topik laporan yang ditujukan kepada instansi yang berwenang dengan
+menggabungkan metode Latent Dirichlet Allocation (LDA) dan Support Vector Machine (SVM). Proses
+pemodelan topik untuk setiap laporan dilakukan dengan menggunakan metode LDA. Metode ini mengekstrak
+laporan untuk menemukan pola tertentu dalam dokumen yang akan menghasilkan keluaran dalam nilai distribusi
+topik. Selanjutnya, proses klasifikasi untuk menentukan laporan agensi tujuan dilakukan dengan menggunakan
+SVM berdasarkan nilai topik yang diekstraksi dengan metode LDA. Performa model LDA-SVM diukur dengan
+menggunakan confusion matrix dengan menghitung nilai akurasi, presisi, recall, dan F1 Score. Hasil pengujian
+menggunakan teknik split train-test dengan skor 70:30 menunjukkan bahwa model menghasilkan kinerja yang
+baik dengan akurasi 79,85%, presisi 79,98%, recall 72,37%, dan Skor F1 74,67%.

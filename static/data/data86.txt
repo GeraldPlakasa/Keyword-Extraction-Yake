@@ -1,0 +1,12 @@
+Bahasa isyarat biasanya dilakukan oleh tuna rungu dan tuna wicara. Sistem Isyarat Bahasa Indonesia (SIBI)
+merupakan isyarat tangan yang digunakan di Indonesia. Penggunaan isyarat tangan tidak selalu dimengerti oleh
+manusia normal, sehingga dibutuhkan perangkat tambahan yang dapat mempermudah dalam menerjemahkan
+suatu isyarat. Perangkat tambahan yang dikembangkan dalam penelitian ini melibatkan teknologi visi komputer
+deep learning sehingga menghasilkan tools untuk menerjemahkan bahasa isyarat tangan. Penelitian ini
+menggunakan data yang berjumlah 29 citra isyarat, yang terdiri dari 26 huruf alfabet dan 3 isyarat tambahan yaitu
+spasi, hapus, dan tidak terklasifikasi. Pre-processing dilakukan dengan mengubah gambar ke dalam bentuk HSV,
+kemudian dilakukan cropping dan thresholding untuk memudahkan pengenalan. Metode Convolutional Neural
+Network (CNN) yang digunakan sebagai feature learning dan pengklasifikasi isyarat tangan pada sebuah obyek.
+Pengujian dilakukan pada berbagai variasi cahaya berkisar 10-200 lux, serta jarak tangan ke webcam 50-200 cm.
+Hasil penelitian dengan metode CNN pada citra isyarat tangan memberikan akurasi sebesar 97,2%, presisi 91,96%,
+sensitivitas 91,9%, spesivisitas 91,96% dan f1 score 91,9%.

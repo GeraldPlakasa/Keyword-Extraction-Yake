@@ -1,0 +1,16 @@
+Covid-2019 pertama kali muncul di kota Wuhan, Cina pada Desember 2019, kemudian menyebar dengan cepat
+ke seluruh dunia dan menjadi pandemi. Pandemi Covid-19 telah menyebabkan dampak yang cukup fatal untuk
+kesehatan masyaraka. Merupakan hal yang sangat penting untuk mendeteksi kasus positif sedini mungkin untuk
+pencegahan penyebaran lebih lanjut dari virus ini. Teknik tes paling umum yang saat ini digunakan untuk
+mendiagnosa Covid-19 adalah Reverse-Transcriptase Polymerase Chain Reaction (RT-PCR). Pencitraan
+radiologis dada seperti chest X-ray memiliki peran penting dalam diagnosis dini penyakit ini. Karena sensitivitas
+RT-PCR rendah 60% - 70%, bahkan jika hasil negatif diperoleh, gejala dapat dideteksi dengan pemeriksaan
+gambar radiologi pasien. Teknik kecerdasan buatan yang digabungkan dengan pencitraan radiologis dapat
+membantu untuk mendiagnosis Covid-19 dengan lebih cepat dan akurat. Proses klasifikasi pada penelitian ini
+terdapat beberapa tahapan yaitu pra-pengolahan, segmentasi, ekstraksi ciri, dan klasifikasi. Ekstraksi ciri yang
+digunakan adalah berdasarkan tekstur orde pertama dan klasifikasi yang digunakan adalah jaringan syaraf tiruan
+perambatan balik. Sistem klasifikasi pada penelitian ini menghasilkan rata-rata akurasi klasifikasi sebesar 94,17%
+untuk kelas normal dan 77,5% untuk Covid-19. Hasil akurasi tertinggi didapat pada skenario pertama dengan hasil
+akurasi sebesar 88,8%. Nilai rata-rata sensitivitas yang didapat pada penelitian ini sebesar 94,17% untuk kelas
+normal dan 76,67% untuk kelas Covid-19. Nilai rata-rata spesifisitas yang didapat pada penelitian ini sebesar
+76,67% untuk kelas normal dan 94,17% untuk kelas Covid -19.

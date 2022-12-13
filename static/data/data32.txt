@@ -1,0 +1,8 @@
+Fungsional marker adalah yang paling utama mempengaruhi kinerja dari Marker Based Augmented Reality
+tracking system. Sedangkan vertex marker adalah marker jenis baru yang dihasilkan dari penelitian sebelumnya.
+Penelitian ini penting untuk dilakukan guna membuktikan fungsional dari vertex marker terhadap faktor-faktor
+yang mempengaruhi Marker Based Augmented Reality tracking system (jarak, sudut, dan luas permukaan yang
+tertutupi). Penelitian ini juga membandingkan hasil pengujian fungsional vertex marker dengan single marker.
+Akhirnya, penelitian ini berkontribusi untuk membuktikan kebaruan dari fungsional vertex marker pada faktor
+jarak ideal, sudut ideal, dan luas permukaan yang tertutupi dibidang Marker-Based Augmented Reality tracking
+system.

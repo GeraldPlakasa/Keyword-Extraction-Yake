@@ -1,0 +1,27 @@
+Kalimantan Barat merupakan salah satu provinsi
+di Indonesia yang pariwisatanya berpotensi untuk
+dikembangkan. Oleh karena itu, feedback dari wisatawan
+dibutuhkan untuk mengambil tindakan terkait
+pengembangan kualitas objek wisata Kalimantan Barat agar
+lebih optimal. Penelitian ini bertujuan untuk membangun
+sistem yang dapat melakukan sentiment analysis terhadap
+objek wisata di Kalimantan Barat berdasarkan data ulasan
+yang ada di Google Maps. Metodologi yang digunakan dalam
+penelitian ini adalah kerangka kerja IS Research Alan
+Hevner. Dalam melakukan riset sentiment analysis objek
+wisata Kalimantan Barat, metode yang digunakan untuk
+klasifikasi adalah Naïve Bayes. Sebelum melakukan
+klasifikasi, dilakukan tahap pre-processing yang terdiri dari
+casefolding, tokenizing, filtering, stemming, dan tahap
+pembobotan kata menggunakan TF-IDF. Berdasarkan
+penelitian yang dilakukan, disimpulkan bahwa sistem dapat
+mengklasifikasikan kelas sentimen ulasan objek wisata yang
+terdapat pada Google Maps menggunakan metode Naive
+Bayes dengan nilai akurasi yang bervariasi dari setiap tempat
+wisata. Nilai akurasi tertinggi adalah 0,76 sedangkan
+terendah adalah 0,38. Hasil sentimen analisis yang dilakukan
+pada objek wisata Kalimantan Barat masuk dalam kategori
+yang positif. Hal ini berdasarkan performa metode Naive
+Bayes yang menunjukan bahwa nilai rata-rata f1-score kelas
+positif adalah 0,73 lebih tinggi dibanding kelas netral 0,53 dan
+negatif 0.14
