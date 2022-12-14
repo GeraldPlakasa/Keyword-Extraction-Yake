@@ -1,0 +1,7 @@
+numpy
+Levenshtein
+itertools
+pickle
+statistics
+flask
+sklearn
