@@ -6,7 +6,15 @@ Keyword Extraction Using Yake is a system that helps the process of retrieving i
   <img src="https://github.com/GeraldPlakasa/Keyword-Extraction-Yake/blob/main/static/img/cover.png">
 </p>
 
-# How to Run
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8
+- Pip
+- Browser
+
+### How to Start
 
 Clone the Project
 
