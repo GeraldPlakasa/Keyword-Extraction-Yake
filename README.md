@@ -2,6 +2,10 @@
 
 Ekstraksi Kata Kunci Menggunakan Yake adalah sistem yang membantu proses pengambilan informasi penting dari sebuah publikasi ilmiah berupa kata kunci yang masukkannya adalah Judul dan Abstrak dari publikasi ilmiah tersebut. Proses pengambilan informasinya menggunakan metode Yake (Yet Another Keywprd Extraction) sebuah metode yang statistical based berdasarkan bobot-bobot pada setiap term
 
+<p align="center">
+  <img src="https://github.com/GeraldPlakasa/Keyword-Extraction-Yake/blob/main/static/img/cover.png">
+</p>
+
 # How to Run
 
 Clone the Project
