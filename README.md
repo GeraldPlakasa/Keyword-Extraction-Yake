@@ -8,6 +8,10 @@ Keyword Extraction Using Yake is a system that helps the process of retrieving i
 
 ## Getting Started
 
+### Demo
+
+[Demonstrasi](http://geraldplakasa.pythonanywhere.com/)
+
 ### Prerequisites
 
 - Python 3.8
